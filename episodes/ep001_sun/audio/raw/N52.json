@@ -1,0 +1,28 @@
+{
+ "id": "N52",
+ "seed": 7051,
+ "chunks": [
+  {
+   "part": 1,
+   "file": "audio/raw/N52_1_0.wav",
+   "text": "But look at when the winner drew its line.",
+   "dur": 2.041333333333333,
+   "words": 9
+  },
+  {
+   "part": 1,
+   "file": "audio/raw/N52_1_1.wav",
+   "text": "October twenty twenty-three.",
+   "dur": 1.5736666666666668,
+   "words": 3
+  },
+  {
+   "part": 1,
+   "file": "audio/raw/N52_1_2.wav",
+   "text": "That's almost four years into the round, with the rise already right there on the chart.",
+   "dur": 4.3566666666666665,
+   "words": 16
+  }
+ ],
+ "gen_s": 7.380906343460083
+}

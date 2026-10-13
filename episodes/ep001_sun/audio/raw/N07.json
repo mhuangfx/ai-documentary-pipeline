@@ -1,0 +1,42 @@
+{
+ "id": "N07",
+ "seed": 7006,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N07_0_0.wav",
+   "text": "The panel was brought together by the American government's space-weather office, together with NASA and an international space-weather group.",
+   "dur": 6.538083333333334,
+   "words": 19
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N07_0_1.wav",
+   "text": "They take their time.",
+   "dur": 1.092375,
+   "words": 4
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N07_0_2.wav",
+   "text": "When they announce the verdict, in September twenty twenty, it's a modest Sun.",
+   "dur": 4.077,
+   "words": 13
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N07_0_3.wav",
+   "text": "The score should top out at a hundred and fifteen, around July twenty twenty-five.",
+   "dur": 4.657583333333333,
+   "words": 14
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N07_0_4.wav",
+   "text": "And they give themselves some wiggle room, anywhere from a hundred and five to a hundred and twenty-five.",
+   "dur": 4.360416666666667,
+   "words": 18
+  }
+ ],
+ "gen_s": 17.146509647369385
+}

@@ -1,0 +1,21 @@
+{
+ "id": "N15",
+ "seed": 7014,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N15_0_0.wav",
+   "text": "The old round's two bands, one from the north and one from the south, carry opposite magnetism.",
+   "dur": 5.279333333333334,
+   "words": 17
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N15_0_1.wav",
+   "text": "When they finally meet at the equator, they cancel each other out, the way plus one and minus one add up to nothing.",
+   "dur": 5.648458333333333,
+   "words": 23
+  }
+ ],
+ "gen_s": 8.411495447158813
+}

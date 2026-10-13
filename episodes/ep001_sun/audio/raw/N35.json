@@ -1,0 +1,28 @@
+{
+ "id": "N35",
+ "seed": 7034,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N35_0_0.wav",
+   "text": "The old panel says a hundred and fifteen.",
+   "dur": 2.2260416666666667,
+   "words": 8
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N35_0_1.wav",
+   "text": "The switch-over team says about a hundred and eighty-four.",
+   "dur": 2.6308333333333334,
+   "words": 9
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N35_0_2.wav",
+   "text": "The trial forecast sits somewhere in between.",
+   "dur": 2.4103333333333334,
+   "words": 7
+  }
+ ],
+ "gen_s": 7.048876762390137
+}

@@ -1,0 +1,35 @@
+{
+ "id": "N63",
+ "seed": 7062,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N63_0_0.wav",
+   "text": "So the real test of who understands the Sun isn't over.",
+   "dur": 3.0567083333333334,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N63_0_1.wav",
+   "text": "It's barely started.",
+   "dur": 1.1325,
+   "words": 3
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N63_0_2.wav",
+   "text": "It's round twenty-six.",
+   "dur": 1.454,
+   "words": 3
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N63_0_3.wav",
+   "text": "And it only counts if each team writes its number down before the round begins, where everyone can see it, and then waits.",
+   "dur": 6.151291666666666,
+   "words": 23
+  }
+ ],
+ "gen_s": 10.36367678642273
+}

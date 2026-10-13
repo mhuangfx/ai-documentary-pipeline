@@ -1,0 +1,42 @@
+{
+ "id": "N16",
+ "seed": 7015,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N16_0_0.wav",
+   "text": "That moment of cancelling is a kind of switch-over.",
+   "dur": 2.306875,
+   "words": 9
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N16_0_1.wav",
+   "text": "The old round is gone, and the new one has the Sun to itself.",
+   "dur": 3.3887916666666666,
+   "words": 14
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N16_0_2.wav",
+   "text": "The team gave it a name.",
+   "dur": 1.1377916666666668,
+   "words": 6
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N16_0_3.wav",
+   "text": "They called it the terminator.",
+   "dur": 1.625,
+   "words": 5
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N16_0_4.wav",
+   "text": "Yes, like the film.",
+   "dur": 1.2364583333333334,
+   "words": 4
+  }
+ ],
+ "gen_s": 10.260971784591675
+}

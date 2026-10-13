@@ -1,0 +1,35 @@
+{
+ "id": "N42",
+ "seed": 7041,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N42_0_0.wav",
+   "text": "And the lights move south.",
+   "dur": 1.7605833333333334,
+   "words": 5
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N42_0_1.wav",
+   "text": "They climb over Mexico.",
+   "dur": 1.4376666666666666,
+   "words": 4
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N42_0_2.wav",
+   "text": "They show up over Florida.",
+   "dur": 1.377875,
+   "words": 5
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N42_0_3.wav",
+   "text": "They spread to the Canary Islands, out in the Atlantic off Africa.",
+   "dur": 3.50475,
+   "words": 12
+  }
+ ],
+ "gen_s": 8.264276027679443
+}

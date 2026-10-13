@@ -1,0 +1,21 @@
+{
+ "id": "N62",
+ "seed": 7061,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N62_0_0.wav",
+   "text": "And in April twenty twenty-six, four astronauts on Artemis Two flew around the Moon and came home, during the tail end of this round.",
+   "dur": 7.805916666666667,
+   "words": 24
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N62_0_1.wav",
+   "text": "Out there, past the Earth's shield, there's nothing between a crew and the Sun's weather except their spacecraft.",
+   "dur": 5.667708333333334,
+   "words": 18
+  }
+ ],
+ "gen_s": 9.988277673721313
+}

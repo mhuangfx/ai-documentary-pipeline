@@ -1,0 +1,28 @@
+{
+ "id": "N41",
+ "seed": 7040,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N41_0_0.wav",
+   "text": "On the night of the tenth of May, the clouds hit the shield hard.",
+   "dur": 3.2079166666666667,
+   "words": 14
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N41_0_1.wav",
+   "text": "The storm reaches level five, the top of the government's one-to-five scale.",
+   "dur": 4.788083333333334,
+   "words": 12
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N41_0_2.wav",
+   "text": "It's the first level-five storm since October two thousand and three, the strongest in twenty-one years.",
+   "dur": 5.693333333333333,
+   "words": 16
+  }
+ ],
+ "gen_s": 10.937154054641724
+}

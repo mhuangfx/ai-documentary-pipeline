@@ -1,0 +1,14 @@
+{
+ "id": "N64",
+ "seed": 7063,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N64_0_0.wav",
+   "text": "Go back to that night over Mexico.",
+   "dur": 1.7054583333333333,
+   "words": 7
+  }
+ ],
+ "gen_s": 1.958080768585205
+}

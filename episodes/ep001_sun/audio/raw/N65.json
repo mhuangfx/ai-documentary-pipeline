@@ -1,0 +1,28 @@
+{
+ "id": "N65",
+ "seed": 7064,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N65_0_0.wav",
+   "text": "The sky is red and pink, hanging over rooftops that almost never see northern lights.",
+   "dur": 4.945083333333334,
+   "words": 15
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N65_0_1.wav",
+   "text": "People are tipping their heads back and staring up at it.",
+   "dur": 2.3184583333333335,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N65_0_2.wav",
+   "text": "The light shifts slowly, and it doesn't fade.",
+   "dur": 2.2359166666666668,
+   "words": 8
+  }
+ ],
+ "gen_s": 8.572258710861206
+}

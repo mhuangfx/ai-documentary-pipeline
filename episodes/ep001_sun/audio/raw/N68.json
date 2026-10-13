@@ -1,0 +1,14 @@
+{
+ "id": "N68",
+ "seed": 7067,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N68_0_0.wav",
+   "text": "Thank you so much for watching.",
+   "dur": 1.844375,
+   "words": 6
+  }
+ ],
+ "gen_s": 1.964017629623413
+}

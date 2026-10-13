@@ -1,0 +1,21 @@
+{
+ "id": "N20",
+ "seed": 7019,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N20_0_0.wav",
+   "text": "Their whole forecast now hangs on a single date.",
+   "dur": 2.3547083333333334,
+   "words": 9
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N20_0_1.wav",
+   "text": "And May twenty twenty arrives.",
+   "dur": 1.5754583333333334,
+   "words": 5
+  }
+ ],
+ "gen_s": 4.291158676147461
+}

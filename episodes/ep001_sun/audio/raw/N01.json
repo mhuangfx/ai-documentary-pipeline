@@ -1,0 +1,49 @@
+{
+ "id": "N01",
+ "seed": 7000,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N01_0_0.wav",
+   "text": "On a spring night, the northern lights burned red over Mexico, thrown there by a Sun the official forecast said would stay modest.",
+   "dur": 6.7828333333333335,
+   "words": 23
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N01_0_1.wav",
+   "text": "The glow reached Florida and the Canary Islands, places that might see a sky like that once in a lifetime.",
+   "dur": 5.087083333333333,
+   "words": 20
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N01_0_2.wav",
+   "text": "And all of it poured out of one patch of the Sun about fifteen Earths wide.",
+   "dur": 4.037833333333333,
+   "words": 16
+  },
+  {
+   "part": 1,
+   "file": "audio/raw/N01_1_0.wav",
+   "text": "How does a modest Sun do that?",
+   "dur": 1.9545833333333333,
+   "words": 7
+  },
+  {
+   "part": 1,
+   "file": "audio/raw/N01_1_1.wav",
+   "text": "Did anyone see it coming?",
+   "dur": 1.6128333333333333,
+   "words": 5
+  },
+  {
+   "part": 1,
+   "file": "audio/raw/N01_1_2.wav",
+   "text": "And what's it going to do next?",
+   "dur": 1.601625,
+   "words": 7
+  }
+ ],
+ "gen_s": 28.721601486206055
+}

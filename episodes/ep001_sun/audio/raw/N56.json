@@ -1,0 +1,28 @@
+{
+ "id": "N56",
+ "seed": 7055,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N56_0_0.wav",
+   "text": "So what does the government's space-weather office say about the next round?",
+   "dur": 3.978625,
+   "words": 12
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N56_0_1.wav",
+   "text": "Its website puts it plainly.",
+   "dur": 1.5900833333333333,
+   "words": 5
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N56_0_2.wav",
+   "text": "\"We do not yet produce a prediction for Solar Cycle 26.\"",
+   "dur": 3.7827916666666668,
+   "words": 11
+  }
+ ],
+ "gen_s": 8.624465227127075
+}

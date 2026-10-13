@@ -1,0 +1,28 @@
+{
+ "id": "N61",
+ "seed": 7060,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N61_0_0.wav",
+   "text": "Meanwhile, our world keeps moving further up into the Sun's reach.",
+   "dur": 3.7601666666666667,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N61_0_1.wav",
+   "text": "By March twenty twenty-six, more than ten thousand Starlink satellites were working overhead.",
+   "dur": 5.011166666666667,
+   "words": 13
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N61_0_2.wav",
+   "text": "Remember, thirty-eight were lost to a storm near the bottom of the scale.",
+   "dur": 3.43525,
+   "words": 13
+  }
+ ],
+ "gen_s": 9.954578638076782
+}

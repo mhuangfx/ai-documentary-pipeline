@@ -1,0 +1,3 @@
+integrated_multimodal_description: [Shot 1] Live-action documentary cinematography, photographic realism, shot on a 50mm macro lens, soft kitchen light. A small colorful round magnet clings to the door of a white refrigerator holding up a paper note. The camera trucks slowly right with small amplitude. No cuts: the entire video is a single unbroken shot.
+overall_soundscape: A faint refrigerator hum.
+non_diegetic_music: N/A

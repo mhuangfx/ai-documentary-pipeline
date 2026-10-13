@@ -1,0 +1,3 @@
+integrated_multimodal_description: [Shot 1] Live-action documentary cinematography, photographic realism, shot on a 50mm macro lens, warm morning window light in a home kitchen, real flour dusting and dough texture, fine film grain, not an illustration, not CG. A smooth ball of bread dough sits in a clear glass bowl on a wooden counter by a sunny window; over the length of the shot the dough slowly swells and domes up above the rim of the bowl. The camera pushes in slowly with small amplitude. No cuts: the entire video is a single unbroken shot.
+overall_soundscape: A quiet warm kitchen, a faint clock tick.
+non_diegetic_music: N/A

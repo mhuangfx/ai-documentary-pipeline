@@ -1,0 +1,21 @@
+{
+ "id": "N31",
+ "seed": 7030,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N31_0_0.wav",
+   "text": "That's a lower number than their first one, exactly as a late switch-over should give.",
+   "dur": 4.3254166666666665,
+   "words": 15
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N31_0_1.wav",
+   "text": "And they publish it twenty-one months before the Sun actually peaks.",
+   "dur": 3.2603333333333335,
+   "words": 11
+  }
+ ],
+ "gen_s": 6.286013126373291
+}

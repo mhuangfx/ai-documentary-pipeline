@@ -1,0 +1,5 @@
+# Standalone tools (script gate, shot-list validator, imagery search, story radar, charts)
+requests
+numpy
+matplotlib
+# Episode stages (need a GPU and local models): soundfile, pyloudnorm, faster-whisper, Pillow, torch

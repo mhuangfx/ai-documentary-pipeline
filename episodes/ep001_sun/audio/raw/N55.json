@@ -1,0 +1,35 @@
+{
+ "id": "N55",
+ "seed": 7054,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N55_0_0.wav",
+   "text": "So the honest scorecard looks like this.",
+   "dur": 2.4327083333333333,
+   "words": 7
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N55_0_1.wav",
+   "text": "The method that won only won once it could see the rise.",
+   "dur": 2.97075,
+   "words": 12
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N55_0_2.wav",
+   "text": "The method that looked ahead was close once its date arrived.",
+   "dur": 2.8950416666666667,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N55_0_3.wav",
+   "text": "And neither has proved, yet, that it can call a whole round before it starts.",
+   "dur": 4.073458333333333,
+   "words": 15
+  }
+ ],
+ "gen_s": 11.12074327468872
+}

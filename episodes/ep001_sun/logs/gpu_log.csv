@@ -1,0 +1,39 @@
+ts,name,lane,seed,steps,secs,wall_s,status,out,note
+2026-10-13T00:47:16,host_H01,HOST,770809,20,4,677,OK,episodes/ep001_sun/host/clips/host_H01.mp4,
+2026-10-13T01:10:52,host_H02,HOST,770809,20,9,1416,OK,episodes/ep001_sun/host/clips/host_H02.mp4,
+2026-10-13T01:28:13,host_H03,HOST,770809,20,8,1041,OK,episodes/ep001_sun/host/clips/host_H03.mp4,
+2026-10-13T01:53:29,host_H04,HOST,770809,20,10,1516,OK,episodes/ep001_sun/host/clips/host_H04.mp4,
+2026-10-13T02:08:20,host_H05,HOST,770809,20,7,890,OK,episodes/ep001_sun/host/clips/host_H05.mp4,
+2026-10-13T02:30:56,host_H06,HOST,770809,20,9,1356,OK,episodes/ep001_sun/host/clips/host_H06.mp4,
+2026-10-13T02:48:07,host_H07,HOST,770809,20,8,1031,OK,episodes/ep001_sun/host/clips/host_H07.mp4,
+2026-10-13T03:13:23,host_H08,HOST,770809,20,10,1516,OK,episodes/ep001_sun/host/clips/host_H08.mp4,
+2026-10-13T03:30:34,host_H09,HOST,770809,20,8,1031,OK,episodes/ep001_sun/host/clips/host_H09.mp4,
+2026-10-13T03:53:00,host_H10,HOST,770809,20,9,1346,OK,episodes/ep001_sun/host/clips/host_H10.mp4,
+2026-10-13T04:15:20,host_H11,HOST,770809,20,9,1341,OK,episodes/ep001_sun/host/clips/host_H11.mp4,
+2026-10-13T04:40:32,host_H12,HOST,770809,20,10,1511,OK,episodes/ep001_sun/host/clips/host_H12.mp4,
+2026-10-13T04:57:43,host_H13,HOST,770809,20,8,1031,OK,episodes/ep001_sun/host/clips/host_H13.mp4,
+2026-10-13T05:04:59,host_H14,HOST,770809,20,4,436,OK,episodes/ep001_sun/host/clips/host_H14.mp4,
+2026-10-13T05:15:16,b_S001,PHOTO_H3_turbo,770809,4,8.7,617,OK,episodes/ep001_sun/broll/clips/b_S001.mp4,cold open hero: red aurora over Mexico
+2026-10-13T05:23:03,b_S146,PHOTO_H3_turbo,770809,4,9.3,466,OK,episodes/ep001_sun/broll/clips/b_S146.mp4,callback: red and pink sky over rooftops
+2026-10-13T05:24:33,b_S147,PHOTO_H3_turbo,770809,4,3.7,91,OK,episodes/ep001_sun/broll/clips/b_S147.mp4,callback: slow shifting red glow
+2026-10-13T05:27:19,b_S008,PHOTO_H3_turbo,770809,4,5.4,165,OK,episodes/ep001_sun/broll/clips/b_S008.mp4,Hydro-Quebec pylons in snow
+2026-10-13T05:32:05,b_S010,PHOTO_H3_turbo,770809,4,8.6,286,OK,episodes/ep001_sun/broll/clips/b_S010.mp4,Starlink trails
+2026-10-13T05:34:50,b_S058,PHOTO_H3_turbo,770809,4,5.3,165,OK,episodes/ep001_sun/broll/clips/b_S058.mp4,Starlink launch trails
+2026-10-13T05:35:56,b_S140,PHOTO_H3_turbo,770809,4,2.3,65,OK,episodes/ep001_sun/broll/clips/b_S140.mp4,Artemis II launch
+2026-10-13T05:40:41,b_S062,H3_T2V,770809,20,3.5,285,OK,episodes/ep001_sun/broll/clips/b_S062.mp4,dough rising in a warm kitchen
+2026-10-13T05:45:57,b_S146r,PHOTO_H3_turbo,770810,4,9.3,315,OK,episodes/ep001_sun/broll/clips/b_S146r.mp4,re-roll of fail (green arcs invented)
+2026-10-13T06:01:38,b_S053,H3_T2V,770809,20,7.4,941,OK,episodes/ep001_sun/broll/clips/b_S053.mp4,time-lapse of seasons turning over a landscape
+2026-10-13T06:09:25,b_S077,H3_T2V,770809,20,4.6,467,OK,episodes/ep001_sun/broll/clips/b_S077.mp4,"sat-nav on a dashboard, night drive"
+2026-10-13T06:19:00,b_S035,H3_T2V,770809,20,5.5,576,OK,episodes/ep001_sun/broll/clips/b_S035.mp4,fridge magnet
+2026-10-13T06:23:06,b_S003,PHOTO_H3_turbo,770809,4,8.0,245,OK,episodes/ep001_sun/broll/clips/b_S003.mp4,extra: animate photo
+2026-10-13T06:25:52,b_S098,PHOTO_H3_turbo,770809,4,5.8,165,OK,episodes/ep001_sun/broll/clips/b_S098.mp4,extra: animate photo
+2026-10-13T06:28:07,b_S099,PHOTO_H3_turbo,770809,4,4.9,135,OK,episodes/ep001_sun/broll/clips/b_S099.mp4,extra: animate photo
+2026-10-13T06:31:13,b_S100,PHOTO_H3_turbo,770809,4,6.2,186,OK,episodes/ep001_sun/broll/clips/b_S100.mp4,extra: animate photo
+2026-10-13T06:33:58,b_S138,PHOTO_H3_turbo,770809,4,5.8,165,OK,episodes/ep001_sun/broll/clips/b_S138.mp4,extra: animate photo
+2026-10-13T06:37:04,b_S065,PHOTO_H3_turbo,770809,4,6.0,185,OK,episodes/ep001_sun/broll/clips/b_S065.mp4,extra: animate photo
+2026-10-13T06:41:09,b_S150,PHOTO_H3_turbo,770809,4,7.5,245,OK,episodes/ep001_sun/broll/clips/b_S150.mp4,extra: animate photo
+2026-10-13T06:45:15,b_S003r,PHOTO_H3_turbo,770810,4,8.0,245,OK,episodes/ep001_sun/broll/clips/b_S003r.mp4,re-roll of fail (photo content lost)
+2026-10-13T06:47:31,b_S099r,PHOTO_H3_turbo,770810,4,4.9,135,OK,episodes/ep001_sun/broll/clips/b_S099r.mp4,re-roll of fail (photo content lost)
+2026-10-13T06:50:36,b_S065r,PHOTO_H3_turbo,770810,4,6.0,185,OK,episodes/ep001_sun/broll/clips/b_S065r.mp4,re-roll of fail (photo content lost)
+2026-10-13T06:53:22,b_S138r,PHOTO_H3_turbo,770810,4,5.8,165,OK,episodes/ep001_sun/broll/clips/b_S138r.mp4,re-roll of fail (photo content lost)
+2026-10-13T07:13:58,cmp_S001_20step,PHOTO_H3_20,770809,20,8.7,1236,OK,episodes/ep001_sun/broll/clips/cmp_S001_20step.mp4,"comparison only: 20-step vs turbo, not used in cut"

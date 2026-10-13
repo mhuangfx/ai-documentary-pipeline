@@ -1,0 +1,6 @@
+model: ACE-Step-v1-3.5B (local, bf16, seed 42, infer_step 60, guidance 15)
+wall_time_s: 6.4
+peak_vram_gb: 7.52
+duration_s: 5.0
+prompt:
+instrumental, no vocals, documentary underscore, economics explainer, understated, sparse midrange, space for narration, clean modern production, ambient, minimal, background music, short transition sting, rising motif, single decisive low piano note, soft timpani hit, clean tail, act break punctuation, neutral, restrained

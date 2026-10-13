@@ -1,0 +1,14 @@
+{
+ "id": "N36",
+ "seed": 7035,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N36_0_0.wav",
+   "text": "And in the first days of May twenty twenty-four, one group of spots on the Sun's face turns toward the Earth.",
+   "dur": 5.969666666666667,
+   "words": 21
+  }
+ ],
+ "gen_s": 4.427927494049072
+}

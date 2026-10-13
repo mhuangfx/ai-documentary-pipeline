@@ -1,0 +1,49 @@
+{
+ "id": "N59",
+ "seed": 7058,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N59_0_0.wav",
+   "text": "But one of their own has moved.",
+   "dur": 1.5772916666666668,
+   "words": 7
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N59_0_1.wav",
+   "text": "On the twenty-second of May, twenty twenty-six, Sandra Chapman, now at the University of Warwick, and one of the authors of the original switch-over paper, publishes a new clock of her own.",
+   "dur": 10.523291666666667,
+   "words": 32
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N59_0_2.wav",
+   "text": "It's built from the spot counts themselves.",
+   "dur": 2.043375,
+   "words": 7
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N59_0_3.wav",
+   "text": "Her call is that round twenty-six will be weak to moderate, smaller than this round or about the same.",
+   "dur": 5.4405833333333335,
+   "words": 19
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N59_0_4.wav",
+   "text": "She doesn't give a number.",
+   "dur": 1.5031666666666668,
+   "words": 5
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N59_0_5.wav",
+   "text": "She says a sharper call should be possible in another two and a half to three and a half years.",
+   "dur": 4.757916666666667,
+   "words": 20
+  }
+ ],
+ "gen_s": 20.926339864730835
+}

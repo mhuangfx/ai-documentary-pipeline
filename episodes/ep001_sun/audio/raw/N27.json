@@ -1,0 +1,21 @@
+{
+ "id": "N27",
+ "seed": 7026,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N27_0_0.wav",
+   "text": "Thirty-eight of the forty-nine are lost.",
+   "dur": 2.363625,
+   "words": 6
+  },
+  {
+   "part": 1,
+   "file": "audio/raw/N27_1_0.wav",
+   "text": "A fresh launch, wiped out by weather in space most people on the ground never noticed.",
+   "dur": 4.178166666666667,
+   "words": 16
+  }
+ ],
+ "gen_s": 5.5237977504730225
+}

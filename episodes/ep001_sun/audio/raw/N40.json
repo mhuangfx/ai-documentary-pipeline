@@ -1,0 +1,42 @@
+{
+ "id": "N40",
+ "seed": 7039,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N40_0_0.wav",
+   "text": "The Earth has a shield.",
+   "dur": 1.652,
+   "words": 5
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N40_0_1.wav",
+   "text": "It's our planet's own magnetism, the same force that makes a compass needle point north.",
+   "dur": 4.185333333333333,
+   "words": 15
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N40_0_2.wav",
+   "text": "Most of the time it turns the Sun's charged gas aside, or funnels a little of it down near the poles.",
+   "dur": 5.628625,
+   "words": 21
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N40_0_3.wav",
+   "text": "There, the gas hits the air high above the ground and makes it glow.",
+   "dur": 3.5980833333333333,
+   "words": 14
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N40_0_4.wav",
+   "text": "That glow is the northern lights.",
+   "dur": 2.32575,
+   "words": 6
+  }
+ ],
+ "gen_s": 14.863290071487427
+}

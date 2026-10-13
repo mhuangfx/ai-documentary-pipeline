@@ -1,0 +1,28 @@
+{
+ "id": "N43",
+ "seed": 7042,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N43_0_0.wav",
+   "text": "The people under that sky had no way of knowing what the storm meant for the forecasts.",
+   "dur": 4.284041666666667,
+   "words": 17
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N43_0_1.wav",
+   "text": "But the storm was a kind of headline.",
+   "dur": 1.8124166666666666,
+   "words": 8
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N43_0_2.wav",
+   "text": "The Sun was busier than the official forecast allowed.",
+   "dur": 2.876625,
+   "words": 9
+  }
+ ],
+ "gen_s": 7.8094706535339355
+}

@@ -1,0 +1,21 @@
+{
+ "id": "N51",
+ "seed": 7050,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N51_0_0.wav",
+   "text": "So the winner is the trial forecast, the sat-nav that watched the rise and redrew its line every month.",
+   "dur": 6.31125,
+   "words": 19
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N51_0_1.wav",
+   "text": "In February twenty twenty-five, the government's space-weather site swaps out the old panel's forecast and puts the updated one in its place.",
+   "dur": 8.167875,
+   "words": 22
+  }
+ ],
+ "gen_s": 10.630662679672241
+}

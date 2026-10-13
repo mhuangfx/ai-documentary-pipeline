@@ -1,0 +1,21 @@
+{
+ "id": "N21",
+ "seed": 7020,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N21_0_0.wav",
+   "text": "The bands haven't met.",
+   "dur": 1.2165416666666666,
+   "words": 4
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N21_0_1.wav",
+   "text": "May turns into summer, and summer into winter, and still the old round hangs on.",
+   "dur": 4.572916666666667,
+   "words": 15
+  }
+ ],
+ "gen_s": 5.437689304351807
+}

@@ -1,0 +1,28 @@
+{
+ "id": "N05",
+ "seed": 7004,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N05_0_0.wav",
+   "text": "The more spots there are, the more storms the Sun throws.",
+   "dur": 3.121875,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N05_0_1.wav",
+   "text": "So the whole question comes down to one thing.",
+   "dur": 1.8060416666666668,
+   "words": 9
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N05_0_2.wav",
+   "text": "How crowded will the Sun get at the top of this round?",
+   "dur": 2.665,
+   "words": 12
+  }
+ ],
+ "gen_s": 7.448911428451538
+}

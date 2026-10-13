@@ -1,0 +1,35 @@
+{
+ "id": "N26",
+ "seed": 7025,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N26_0_0.wav",
+   "text": "It doesn't touch the satellites directly.",
+   "dur": 1.9507916666666667,
+   "words": 6
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N26_0_1.wav",
+   "text": "It heats the thin air high above the Earth, and that air puffs up, the way dough rises in a warm kitchen.",
+   "dur": 5.8775,
+   "words": 22
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N26_0_2.wav",
+   "text": "Suddenly there's thicker air at the satellites' height than there was the day before.",
+   "dur": 4.023958333333334,
+   "words": 14
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N26_0_3.wav",
+   "text": "They plough into it, they slow down, and they start to fall.",
+   "dur": 3.051375,
+   "words": 12
+  }
+ ],
+ "gen_s": 12.359476327896118
+}

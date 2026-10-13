@@ -1,0 +1,21 @@
+{
+ "id": "N13",
+ "seed": 7012,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N13_0_0.wav",
+   "text": "A new round's bands don't wait politely for the old round to finish.",
+   "dur": 3.397291666666667,
+   "words": 13
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N13_0_1.wav",
+   "text": "They show up while the old round is still running, high up toward the poles, so for years the two rounds overlap.",
+   "dur": 5.816708333333334,
+   "words": 22
+  }
+ ],
+ "gen_s": 7.13662576675415
+}

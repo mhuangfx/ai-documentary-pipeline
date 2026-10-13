@@ -1,0 +1,35 @@
+{
+ "id": "N19",
+ "seed": 7018,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N19_0_0.wav",
+   "text": "The switch-over team expects the bands to meet around May twenty twenty.",
+   "dur": 3.7562083333333334,
+   "words": 12
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N19_0_1.wav",
+   "text": "That date is what gives them two hundred and thirty-three.",
+   "dur": 2.888625,
+   "words": 10
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N19_0_2.wav",
+   "text": "Their most likely range runs from two hundred and four to two hundred and fifty-four.",
+   "dur": 4.4505,
+   "words": 15
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N19_0_3.wav",
+   "text": "Their wider range, the one they'd almost bet everything on, runs all the way from a hundred and fifty-three to three hundred and five.",
+   "dur": 6.231916666666667,
+   "words": 24
+  }
+ ],
+ "gen_s": 14.025805711746216
+}

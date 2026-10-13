@@ -1,0 +1,35 @@
+{
+ "id": "N39",
+ "seed": 7038,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N39_0_0.wav",
+   "text": "On the ninth of May, forecasters at the government's space-weather office issue a watch for a severe storm.",
+   "dur": 6.120666666666667,
+   "words": 18
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N39_0_1.wav",
+   "text": "It's the first warning of its kind since two thousand and five.",
+   "dur": 3.2402083333333334,
+   "words": 12
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N39_0_2.wav",
+   "text": "They can see the clouds leaving the Sun, so they get about a day's notice.",
+   "dur": 3.6414166666666667,
+   "words": 15
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N39_0_3.wav",
+   "text": "With a single storm, a day or two is about all the warning anyone gets.",
+   "dur": 3.8297083333333335,
+   "words": 15
+  }
+ ],
+ "gen_s": 13.681560039520264
+}

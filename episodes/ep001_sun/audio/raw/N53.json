@@ -1,0 +1,35 @@
+{
+ "id": "N53",
+ "seed": 7052,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N53_0_0.wav",
+   "text": "It's like calling a football match at half-time.",
+   "dur": 1.8739583333333334,
+   "words": 8
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N53_0_1.wav",
+   "text": "You're watching the score, you can see who's ahead, and you make your prediction.",
+   "dur": 3.761833333333333,
+   "words": 14
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N53_0_2.wav",
+   "text": "You'll probably be right.",
+   "dur": 1.3540833333333333,
+   "words": 4
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N53_0_3.wav",
+   "text": "Nobody would call it foresight.",
+   "dur": 1.6755416666666667,
+   "words": 5
+  }
+ ],
+ "gen_s": 8.580816745758057
+}

@@ -1,0 +1,28 @@
+{
+ "id": "N58",
+ "seed": 7057,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N58_0_0.wav",
+   "text": "The switch-over team hasn't filed a number either.",
+   "dur": 2.443875,
+   "words": 8
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N58_0_1.wav",
+   "text": "Their rule needs a date, and the next switch-over hasn't happened.",
+   "dur": 2.80825,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N58_0_2.wav",
+   "text": "Until those bands meet at the equator, they're waiting.",
+   "dur": 3.00025,
+   "words": 9
+  }
+ ],
+ "gen_s": 7.679996728897095
+}

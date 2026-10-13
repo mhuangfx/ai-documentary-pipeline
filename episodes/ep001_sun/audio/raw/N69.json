@@ -1,0 +1,21 @@
+{
+ "id": "N69",
+ "seed": 7068,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N69_0_0.wav",
+   "text": "If you'd like more stories like this one, please subscribe, and if you can, support the channel.",
+   "dur": 5.082875,
+   "words": 17
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N69_0_1.wav",
+   "text": "It really helps.",
+   "dur": 1.3812916666666666,
+   "words": 3
+  }
+ ],
+ "gen_s": 5.501785039901733
+}

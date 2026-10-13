@@ -1,0 +1,6 @@
+model: ACE-Step-v1-3.5B (local, bf16, seed 42, infer_step 60, guidance 15)
+wall_time_s: 19.8
+peak_vram_gb: 10.41
+duration_s: 180.0
+prompt:
+instrumental, no vocals, documentary underscore, economics explainer, understated, sparse midrange, space for narration, clean modern production, ambient, minimal, background music, soft synth pads, muted piano single notes, quiet ticking percussion pulse, 85 bpm, curious, methodical, subtle bass drone, slow chord changes, no climax, constant low intensity, loopable

@@ -1,0 +1,21 @@
+{
+ "id": "N11",
+ "seed": 7010,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N11_0_0.wav",
+   "text": "Start with magnetism, the kind of force that holds a fridge magnet to the door.",
+   "dur": 4.219125,
+   "words": 15
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N11_0_1.wav",
+   "text": "The Sun is full of it, far stronger and far more tangled.",
+   "dur": 3.189208333333333,
+   "words": 12
+  }
+ ],
+ "gen_s": 6.605053901672363
+}

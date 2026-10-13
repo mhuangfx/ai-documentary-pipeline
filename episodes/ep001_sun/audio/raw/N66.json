@@ -1,0 +1,42 @@
+{
+ "id": "N66",
+ "seed": 7065,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N66_0_0.wav",
+   "text": "That glow is the Sun's rhythm near its top, made visible.",
+   "dur": 3.5179583333333335,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N66_0_1.wav",
+   "text": "It's the climb to a hundred and sixty point nine, painted across the sky.",
+   "dur": 3.5229166666666667,
+   "words": 14
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N66_0_2.wav",
+   "text": "Somewhere on a chart, a line said the Sun wouldn't get this high this soon.",
+   "dur": 3.862041666666667,
+   "words": 15
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N66_0_3.wav",
+   "text": "Another line said it would go far higher.",
+   "dur": 2.185791666666667,
+   "words": 8
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N66_0_4.wav",
+   "text": "And the sky over Mexico sits right between them, the Sun's own answer, written in light.",
+   "dur": 4.898541666666667,
+   "words": 16
+  }
+ ],
+ "gen_s": 15.074093103408813
+}

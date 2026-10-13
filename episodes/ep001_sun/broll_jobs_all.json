@@ -1,0 +1,288 @@
+[
+ {
+  "name": "b_S001",
+  "lane": "PHOTO_H3_turbo",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S001.txt",
+  "secs": 8.7,
+  "seed": 770809,
+  "steps": 4,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [
+   "--first-frame",
+   "episodes/ep001_sun/broll/ff/P01_aurora_mazatlan.png",
+   "--lora",
+   "minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors"
+  ],
+  "shot": "S001",
+  "note": "cold open hero: red aurora over Mexico"
+ },
+ {
+  "name": "b_S003",
+  "lane": "PHOTO_H3_turbo",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S003.txt",
+  "secs": 8.0,
+  "seed": 770809,
+  "steps": 4,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [
+   "--first-frame",
+   "episodes/ep001_sun/broll/ff/P03_aurora_gran.png",
+   "--lora",
+   "minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors"
+  ],
+  "shot": "S003",
+  "note": "extra: animate photo"
+ },
+ {
+  "name": "b_S008",
+  "lane": "PHOTO_H3_turbo",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S008.txt",
+  "secs": 5.4,
+  "seed": 770809,
+  "steps": 4,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [
+   "--first-frame",
+   "episodes/ep001_sun/broll/ff/P07_hydroquebec_pylons_snow.png",
+   "--lora",
+   "minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors"
+  ],
+  "shot": "S008",
+  "note": "Hydro-Quebec pylons in snow"
+ },
+ {
+  "name": "b_S010",
+  "lane": "PHOTO_H3_turbo",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S010.txt",
+  "secs": 8.6,
+  "seed": 770809,
+  "steps": 4,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [
+   "--first-frame",
+   "episodes/ep001_sun/broll/ff/P06_alt_starlink.png",
+   "--lora",
+   "minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors"
+  ],
+  "shot": "S010",
+  "note": "Starlink trails"
+ },
+ {
+  "name": "b_S035",
+  "lane": "H3_T2V",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S035.txt",
+  "secs": 5.5,
+  "seed": 770809,
+  "steps": 20,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [],
+  "shot": "S035",
+  "note": "fridge magnet"
+ },
+ {
+  "name": "b_S053",
+  "lane": "H3_T2V",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S053.txt",
+  "secs": 7.4,
+  "seed": 770809,
+  "steps": 20,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [],
+  "shot": "S053",
+  "note": "time-lapse of seasons turning over a landscape"
+ },
+ {
+  "name": "b_S058",
+  "lane": "PHOTO_H3_turbo",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S058.txt",
+  "secs": 5.3,
+  "seed": 770809,
+  "steps": 4,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [
+   "--first-frame",
+   "episodes/ep001_sun/broll/ff/P06_alt_starlink.png",
+   "--lora",
+   "minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors"
+  ],
+  "shot": "S058",
+  "note": "Starlink launch trails"
+ },
+ {
+  "name": "b_S062",
+  "lane": "H3_T2V",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S062.txt",
+  "secs": 3.5,
+  "seed": 770809,
+  "steps": 20,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [],
+  "shot": "S062",
+  "note": "dough rising in a warm kitchen"
+ },
+ {
+  "name": "b_S065",
+  "lane": "PHOTO_H3_turbo",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S065.txt",
+  "secs": 6.0,
+  "seed": 770809,
+  "steps": 4,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [
+   "--first-frame",
+   "episodes/ep001_sun/broll/ff/P06_alt_starlink.png",
+   "--lora",
+   "minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors"
+  ],
+  "shot": "S065",
+  "note": "extra: animate photo"
+ },
+ {
+  "name": "b_S077",
+  "lane": "H3_T2V",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S077.txt",
+  "secs": 4.6,
+  "seed": 770809,
+  "steps": 20,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [],
+  "shot": "S077",
+  "note": "sat-nav on a dashboard, night drive"
+ },
+ {
+  "name": "b_S098",
+  "lane": "PHOTO_H3_turbo",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S098.txt",
+  "secs": 5.8,
+  "seed": 770809,
+  "steps": 4,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [
+   "--first-frame",
+   "episodes/ep001_sun/broll/ff/P02_aurora_phoenix.png",
+   "--lora",
+   "minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors"
+  ],
+  "shot": "S098",
+  "note": "extra: animate photo"
+ },
+ {
+  "name": "b_S099",
+  "lane": "PHOTO_H3_turbo",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S099.txt",
+  "secs": 4.9,
+  "seed": 770809,
+  "steps": 4,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [
+   "--first-frame",
+   "episodes/ep001_sun/broll/ff/P03_aurora_gran.png",
+   "--lora",
+   "minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors"
+  ],
+  "shot": "S099",
+  "note": "extra: animate photo"
+ },
+ {
+  "name": "b_S100",
+  "lane": "PHOTO_H3_turbo",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S100.txt",
+  "secs": 6.2,
+  "seed": 770809,
+  "steps": 4,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [
+   "--first-frame",
+   "episodes/ep001_sun/broll/ff/P04_aurora_magenta.png",
+   "--lora",
+   "minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors"
+  ],
+  "shot": "S100",
+  "note": "extra: animate photo"
+ },
+ {
+  "name": "b_S138",
+  "lane": "PHOTO_H3_turbo",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S138.txt",
+  "secs": 5.8,
+  "seed": 770809,
+  "steps": 4,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [
+   "--first-frame",
+   "episodes/ep001_sun/broll/ff/P06_alt_starlink.png",
+   "--lora",
+   "minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors"
+  ],
+  "shot": "S138",
+  "note": "extra: animate photo"
+ },
+ {
+  "name": "b_S140",
+  "lane": "PHOTO_H3_turbo",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S140.txt",
+  "secs": 2.3,
+  "seed": 770809,
+  "steps": 4,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [
+   "--first-frame",
+   "episodes/ep001_sun/broll/ff/P13_artemis2_launch.png",
+   "--lora",
+   "minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors"
+  ],
+  "shot": "S140",
+  "note": "Artemis II launch"
+ },
+ {
+  "name": "b_S146",
+  "lane": "PHOTO_H3_turbo",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S146.txt",
+  "secs": 9.3,
+  "seed": 770809,
+  "steps": 4,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [
+   "--first-frame",
+   "episodes/ep001_sun/broll/ff/P04_aurora_magenta.png",
+   "--lora",
+   "minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors"
+  ],
+  "shot": "S146",
+  "note": "callback: red and pink sky over rooftops"
+ },
+ {
+  "name": "b_S147",
+  "lane": "PHOTO_H3_turbo",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S147.txt",
+  "secs": 3.7,
+  "seed": 770809,
+  "steps": 4,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [
+   "--first-frame",
+   "episodes/ep001_sun/broll/ff/P01_aurora_mazatlan.png",
+   "--lora",
+   "minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors"
+  ],
+  "shot": "S147",
+  "note": "callback: slow shifting red glow"
+ },
+ {
+  "name": "b_S150",
+  "lane": "PHOTO_H3_turbo",
+  "prompt_file": "episodes/ep001_sun/broll/prompts/S150.txt",
+  "secs": 7.5,
+  "seed": 770809,
+  "steps": 4,
+  "out_dir": "episodes/ep001_sun/broll/clips",
+  "args": [
+   "--first-frame",
+   "episodes/ep001_sun/broll/ff/P01_aurora_mazatlan.png",
+   "--lora",
+   "minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors"
+  ],
+  "shot": "S150",
+  "note": "extra: animate photo"
+ }
+]

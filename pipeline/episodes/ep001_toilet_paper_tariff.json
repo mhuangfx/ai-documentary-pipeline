@@ -1,0 +1,345 @@
+{
+  "id": "ep001_toilet_paper_tariff",
+  "title": "The Toilet Paper Tariff",
+  "premise_id": "14_live_ideation_pull_week_2026-08-24#1-the-toilet-paper-tariff",
+  "trigger_signal": "Guardian/HN story on surging toilet-paper prices (Aug 26, 102 pts) + Google Trends 'toilet paper prices' +390% WoW + GDELT tariff-coverage volume +12%, three independent sources corroborating in one week (research note 14 (private)).",
+  "thesis": "The Canada tariff didn't tax Canadians, it taxed the American buying paper towels, because pulp is an integrated cross-border supply chain with no fast substitute.",
+  "target_duration_s": 180,
+  "status": "draft",
+  "sources": [
+    {
+      "id": "src_ustr_tariff_notice",
+      "url": "https://ustr.gov/TBD-federal-register-notice-canadian-paper-tariff",
+      "quote": "",
+      "claim_it_supports": "The 14% tariff rate on Canadian paper products applied to landed cost, and the effective date it took effect (shots 3, 4, 9).",
+      "verified": false
+    },
+    {
+      "id": "src_hts_4803",
+      "url": "https://hts.usitc.gov/heading/4803",
+      "quote": "",
+      "claim_it_supports": "HTS heading 4803 is the correct tariff-schedule classification for tissue-grade paper referenced on screen in shot 9.",
+      "verified": false
+    },
+    {
+      "id": "src_kc_10q",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KMB&type=10-Q",
+      "quote": "",
+      "claim_it_supports": "Kimberly-Clark's most recent 10-Q language on recovering higher input costs through pricing (shots 11, 12).",
+      "verified": false
+    },
+    {
+      "id": "src_pulp_price_index",
+      "url": "https://www.fastmarkets.com/TBD-random-lengths-pulp-price-index",
+      "quote": "",
+      "claim_it_supports": "Cross-border pulp share (two-thirds of US-bound pulp crosses from Canada) and the $1.10 shelf-price cost-stack breakdown (retailer ~25c, mill ~30c, tree ~5c) in shots 5, 13, 14, 15.",
+      "verified": false
+    },
+    {
+      "id": "src_mill_capex",
+      "url": "https://www.example-pulp-industry-report.com/TBD-new-mill-capex-timeline",
+      "quote": "",
+      "claim_it_supports": "New pulp mill construction cost (~$2B) and build timeline (3-5 years), supporting the 'no fast substitute' claim in shot 7.",
+      "verified": false
+    }
+  ],
+  "voice": {
+    "engine": "elevenlabs_v3",
+    "voice_id": "TBD-pending-test-A-ab-pick",
+    "script_path": "pipeline/episodes/ep001_toilet_paper_tariff.vo.txt"
+  },
+  "shots": [
+    {
+      "shot_id": "s01",
+      "act": 1,
+      "t_start_s": 0,
+      "t_end_s": 8,
+      "script_line": "A nine-dollar pack of paper towels went to eleven dollars last month, and nobody at the store can tell you why...",
+      "on_screen": "Shelf price tag, $8.99 crossed out, $10.99 sticker. Slow push-in.",
+      "asset_type": "still",
+      "tool_params": {
+        "prompt": "grocery store shelf price tag, $8.99 crossed out with a red sticker reading $10.99, paper towel packs in soft background blur, house style board",
+        "ref_style_board": "house_style_v1",
+        "ken_burns": "slow push-in"
+      },
+      "takes": 4,
+      "fallback_asset_type": null,
+      "verify_refs": [],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s02",
+      "act": 1,
+      "t_start_s": 8,
+      "t_end_s": 18,
+      "script_line": "...because the honest answer involves three governments, a pulp mill in Quebec, and a tariff schedule nobody reads past the headline.",
+      "on_screen": "The Ledger opens; three line items stamp in: '3 governments · 1 pulp mill · 1 tariff schedule'.",
+      "asset_type": "ledger",
+      "tool_params": {
+        "template": "ledger_open_v1",
+        "stamp_lines": ["3 governments", "1 pulp mill", "1 tariff schedule"]
+      },
+      "takes": 1,
+      "fallback_asset_type": null,
+      "verify_refs": [],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s03",
+      "act": 1,
+      "t_start_s": 18,
+      "t_end_s": 30,
+      "script_line": "Here's the number: the new tariff on Canadian paper products sits at 14 percent. Not 14 percent on the shelf price -- 14 percent on the landed cost...",
+      "on_screen": "Animated map: Quebec mill -> border -> US converter -> retailer; '14%' stamp lands at the border.",
+      "asset_type": "chart",
+      "tool_params": {
+        "chart_fn": "map_route_stamp",
+        "data": {"route": ["Quebec mill", "US border", "US converter", "retailer"], "stamp": "14%", "stamp_at": "US border"}
+      },
+      "takes": 1,
+      "fallback_asset_type": null,
+      "verify_refs": ["src_ustr_tariff_notice"],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s04",
+      "act": 1,
+      "t_start_s": 30,
+      "t_end_s": 45,
+      "script_line": "...the tariff taxes the input, and then everyone downstream marks up their own margin on the more expensive input. That's how 14 percent becomes 20-plus at the register.",
+      "on_screen": "Cost-stack bar builds: pulp -> +tariff -> converter markup -> retail markup. Numbers count up.",
+      "asset_type": "chart",
+      "tool_params": {
+        "chart_fn": "bar_build_countup",
+        "data": {"stages": ["pulp", "+tariff", "converter markup", "retail markup"], "end_pct": "20+"}
+      },
+      "takes": 1,
+      "fallback_asset_type": null,
+      "verify_refs": ["src_ustr_tariff_notice", "src_pulp_price_index"],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s05",
+      "act": 1,
+      "t_start_s": 45,
+      "t_end_s": 58,
+      "script_line": "Two-thirds of the pulp that becomes American toilet paper crosses the Canadian border first...",
+      "on_screen": "Logging trucks, mill exterior.",
+      "asset_type": "archival",
+      "tool_params": {
+        "search_terms": ["Quebec pulp mill exterior", "logging truck snowy road public domain"]
+      },
+      "takes": 1,
+      "fallback_asset_type": "clip_h3",
+      "verify_refs": ["src_pulp_price_index"],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s06",
+      "act": 1,
+      "t_start_s": 58,
+      "t_end_s": 70,
+      "script_line": "...the supply chain was integrated on purpose, decades ago, back when nobody planned for a trade war over lumber and paper.",
+      "on_screen": "Slow H3 motion: pulp bales moving on a conveyor, no people in frame.",
+      "asset_type": "clip_h3",
+      "tool_params": {
+        "prompt": "pulp bales moving on an industrial conveyor belt, interior mill setting, slow steady motion, no people in frame, photoreal",
+        "resolution": "1344x768",
+        "duration_s": 8
+      },
+      "takes": 2,
+      "fallback_asset_type": "still",
+      "verify_refs": [],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s07",
+      "act": 1,
+      "t_start_s": 70,
+      "t_end_s": 80,
+      "script_line": "There is no fast substitute. You cannot spin up a pulp mill in six months.",
+      "on_screen": "CARD over darkened mill still: 'New pulp mill: ~$2B, 3-5 years'.",
+      "asset_type": "card",
+      "tool_params": {
+        "template": "card_drawtext_v1",
+        "text": "New pulp mill: ~$2B, 3-5 years",
+        "background_still": "darkened mill still (shot s05/s06 frame)"
+      },
+      "takes": 1,
+      "fallback_asset_type": null,
+      "verify_refs": ["src_mill_capex"],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s08",
+      "act": 1,
+      "t_start_s": 80,
+      "t_end_s": 88,
+      "script_line": "So who's actually paying? You are -- three purchases from now, for a product you didn't know had a passport.",
+      "on_screen": "Receipt push-in; paper-goods line highlights; the Ledger's stamp closes the act.",
+      "asset_type": "ledger",
+      "tool_params": {
+        "template": "ledger_close_v1",
+        "underlay": "receipt still, paper-goods line highlighted"
+      },
+      "takes": 1,
+      "fallback_asset_type": "still",
+      "verify_refs": [],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s09",
+      "act": 2,
+      "t_start_s": 88,
+      "t_end_s": 102,
+      "script_line": "The rate is public. It sits in the Harmonized Tariff Schedule under heading 4803 -- the code for tissue-grade paper -- and it took effect on [DATE -- pending src_ustr_tariff_notice].",
+      "on_screen": "Screen capture of the actual HTS page, heading 4803 highlighted, slow scroll.",
+      "asset_type": "screencap",
+      "tool_params": {
+        "source_url": "https://hts.usitc.gov/heading/4803",
+        "capture_notes": "slow scroll, highlight heading 4803"
+      },
+      "takes": 1,
+      "fallback_asset_type": null,
+      "verify_refs": ["src_ustr_tariff_notice", "src_hts_4803"],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s10",
+      "act": 2,
+      "t_start_s": 102,
+      "t_end_s": 112,
+      "script_line": "In practice, an importer is a converter with a contract, and contracts have pass-through clauses.",
+      "on_screen": "SEED clip: hands flipping a contract, pen taps the pass-through clause.",
+      "asset_type": "clip_seedance",
+      "tool_params": {
+        "prompt": "close-up of hands flipping through a printed contract on a desk, pen taps a highlighted pass-through clause line, no faces visible, natural office lighting",
+        "duration_s": 10,
+        "resolution": "720p"
+      },
+      "takes": 1,
+      "fallback_asset_type": "still",
+      "verify_refs": [],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s11",
+      "act": 2,
+      "t_start_s": 112,
+      "t_end_s": 124,
+      "script_line": "Kimberly-Clark told its investors exactly that, in its last quarterly filing: higher input costs, recovered through pricing.",
+      "on_screen": "Screen capture of the 10-Q sentence, highlighter sweep.",
+      "asset_type": "screencap",
+      "tool_params": {
+        "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KMB&type=10-Q",
+        "capture_notes": "highlighter sweep over the pass-through-pricing sentence"
+      },
+      "takes": 1,
+      "fallback_asset_type": null,
+      "verify_refs": ["src_kc_10q"],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s12",
+      "act": 2,
+      "t_start_s": 124,
+      "t_end_s": 130,
+      "script_line": "Recovered through pricing. That's the polite phrase for: you.",
+      "on_screen": "The Ledger stamps 'recovered through pricing -> you'.",
+      "asset_type": "ledger",
+      "tool_params": {
+        "template": "ledger_stamp_v1",
+        "stamp_lines": ["recovered through pricing", "-> you"]
+      },
+      "takes": 1,
+      "fallback_asset_type": null,
+      "verify_refs": ["src_kc_10q"],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s13",
+      "act": 3,
+      "t_start_s": 130,
+      "t_end_s": 144,
+      "script_line": "So follow one roll backwards. On the shelf it's $1.10.",
+      "on_screen": "H3 clip: single roll on a shelf, lights dim around it -- the episode's 'hero object' motif.",
+      "asset_type": "clip_h3",
+      "tool_params": {
+        "prompt": "single toilet paper roll on an empty store shelf, surrounding lights slowly dim to spotlight the roll, photoreal, static-to-slow-push camera",
+        "resolution": "1344x768",
+        "duration_s": 14
+      },
+      "takes": 2,
+      "fallback_asset_type": "still",
+      "verify_refs": ["src_pulp_price_index"],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s14",
+      "act": 3,
+      "t_start_s": 144,
+      "t_end_s": 164,
+      "script_line": "The retailer took about 25 cents... the converter -- the company that turned a two-ton pulp bale into something with a cardboard tube -- took the biggest single cut, and it took that cut after the tariff made its main input more expensive.",
+      "on_screen": "Waterfall chart: $1.10 decomposing into retailer / converter / mill / tree segments, each labeled as it splits.",
+      "asset_type": "chart",
+      "tool_params": {
+        "chart_fn": "waterfall_split",
+        "data": {"total": 1.10, "segments": ["retailer", "converter", "mill", "tree"]}
+      },
+      "takes": 1,
+      "fallback_asset_type": null,
+      "verify_refs": ["src_pulp_price_index", "src_ustr_tariff_notice"],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s15",
+      "act": 3,
+      "t_start_s": 164,
+      "t_end_s": 172,
+      "script_line": "The mill in Quebec got about 30 cents. And the tree? About a nickel.",
+      "on_screen": "STILL: stylized cross-section -- tree -> bale -> roll -- in house style.",
+      "asset_type": "still",
+      "tool_params": {
+        "prompt": "stylized infographic cross-section illustration: tree, then pulp bale, then finished paper roll, left to right, house style board",
+        "ref_style_board": "house_style_v1"
+      },
+      "takes": 1,
+      "fallback_asset_type": null,
+      "verify_refs": ["src_pulp_price_index"],
+      "asset_path": null,
+      "status": "todo"
+    },
+    {
+      "shot_id": "s16",
+      "act": 3,
+      "t_start_s": 172,
+      "t_end_s": 180,
+      "script_line": "Every one of those numbers moved this year. Only one of them moved because of a government.",
+      "on_screen": "The Ledger returns; the tariff line pulses. Act break sting.",
+      "asset_type": "ledger",
+      "tool_params": {
+        "template": "ledger_close_v1",
+        "pulse_line": "tariff"
+      },
+      "takes": 1,
+      "fallback_asset_type": null,
+      "verify_refs": [],
+      "asset_path": null,
+      "status": "todo"
+    }
+  ]
+}

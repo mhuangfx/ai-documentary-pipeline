@@ -1,0 +1,14 @@
+{
+ "id": "N34",
+ "seed": 7033,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N34_0_0.wav",
+   "text": "Its answer is a peak somewhere between a hundred and thirty-seven and a hundred and seventy-three, some time between January and October twenty twenty-four.",
+   "dur": 8.271125,
+   "words": 24
+  }
+ ],
+ "gen_s": 6.159051895141602
+}

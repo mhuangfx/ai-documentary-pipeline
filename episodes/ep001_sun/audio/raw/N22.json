@@ -1,0 +1,28 @@
+{
+ "id": "N22",
+ "seed": 7021,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N22_0_0.wav",
+   "text": "For a rule built on a date, that matters.",
+   "dur": 2.56875,
+   "words": 9
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N22_0_1.wav",
+   "text": "A switch-over that runs late is supposed to mean a weaker round.",
+   "dur": 3.081166666666667,
+   "words": 12
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N22_0_2.wav",
+   "text": "Every month the team waits, the two hundred and thirty-three should come down a little.",
+   "dur": 4.246583333333334,
+   "words": 15
+  }
+ ],
+ "gen_s": 8.441206693649292
+}

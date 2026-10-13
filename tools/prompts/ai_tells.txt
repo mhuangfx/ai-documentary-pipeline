@@ -1,0 +1,92 @@
+# ai_tells.txt - regex list for spoken-narration AI-tell checker.
+# Format: one Python regex per line, applied case-insensitive (re.I) to narration text with [bracket tags] stripped.
+# Lines starting with "# " set the category for patterns below. Blank lines ignored. Sources: research note 53 (private)
+# category: colon_reveal
+\b(and )?(here|this) (is|'s|’s) (the|a) (strange|odd|weird|surprising|catch|twist|kicker|thing|part|problem|truth|crazy|wild|real|best|worst|funny|beautiful|interesting|key|secret|irony)( part| thing| bit)?\s*:
+\bhere(?:'s|’s| is| are) (the|what|why|how|where|when|a)\b[^.?!]{0,90}:
+\b(the|my) (answer|result|reason|truth|catch|twist|problem|solution|point|verdict|lesson|upshot|bottom line)( is| was)?\s*:
+\b(one|two|three|four|five|the following|this) (thing|reason|question|number|word|idea|fact|detail)s?\s*:
+\b(it|this|that|they|we|you|experts|scientists|astronomers) (came|boiled|comes|boils|turned|turns|amounts|adds up|goes) (down )?(to|out to)\s*:
+^[^:]{0,60}\b(simple|clear|obvious|brutal|uncomfortable|honest|plain)( truth| answer| fact| reality)?\s*:
+[A-Za-z]+\s*:\s*(a|an|the|one|two|three|\w+ \w+) [^.?!]{0,60}\.\s*$
+[a-z’']:\s+(?!\d)\w
+(it|he|she|they|we|i|someone|somebody|everyone) (said|says|asked|asks|wrote|writes|called|calls|told|replied|answered)\s*:
+# category: dramatic_question_setup
+\bthe (catch|kicker|twist|punchline|brutal truth|real question|big question|problem|irony|surprise|twist ending)\?
+\band (honestly|here's why|the (result|answer|reason|kicker|catch))\?
+\bwant to know (why|how|what|the)\b
+\bwhat (happened|happens|came) next\b
+\bso (what|how|why) (does|did|is|was|happened)\b[^.?!]{0,60}\?
+# category: signposting_announce
+\blet(?:'s|’s| us) (dive|delve|unpack|explore|break (it|this|that) down|take a (closer )?look|get (started|into)|talk about|jump in|dig in|find out|look at|see (why|how|what))\b
+\bbuckle (up|in)\b
+\bfasten your seatbelt
+\bhere(?:'s|’s| is) where (it|things|the story|this|that) (gets|got|becomes|really|starts|turns)
+\b(but )?here(?:'s|’s| is) the (twist|catch|kicker|thing|part|strange part|surprising part|crazy part)\b
+\band here(?:'s|’s| is) (the|where|what|why|how)\b
+\b(you|you'll|you’ll|you will) (won't|won’t|will not) believe\b
+\bwhat (happens|happened) next (will|might|may) (surprise|shock|amaze)
+\bin this (episode|video|story|chapter)\b[^.?!]{0,40}\b(you|we)(?:'ll|’ll| will| are going to|'re going to|’re going to)
+\bwe(?:'ll|’ll| will| are going to|'re going to|’re going to) (explore|look at|see|cover|examine|discover|find out)
+\b(before we (go|get|move|dive)|now,? (let's|let’s)|first,? (let's|let’s))\b
+\b(it(?:'s|’s| is)|that(?:'s|’s| is)) (worth|important to) (noting|note|mention|remember|remembering|understand)\b
+\b(it should be noted|needless to say|of course,? it goes without saying)\b
+\bstay (with me|tuned)\b
+\bkeep (that|this|those) in mind\b
+\bremember (that|this)\b
+# category: rhetorical_contrast
+\bnot (just|only|merely|simply) [^.?!;]{0,80}(,|;|—|–|-)? ?(but|it(?:'s|’s| is)|they(?:'re|’re| are)|rather|also)\b
+\b(it|this|that|they|he|she)(?:'s|’s| is| was| are|'re|’re| isn't| isn’t| wasn't| wasn’t| aren't| aren’t)( not| never)? (about|a|an|the|just|only)\b[^.?!;]{0,60}[,;—–.] ?(it|this|that|they|but|rather)(?:'s|’s| is| was| are)? (about|a|an|the)\b
+\b(isn't|isn’t|wasn't|wasn’t|aren't|aren’t|not|never) (a|an|the|about|only) [^.?!;]{0,50}(\.|;|,|—) ?(it(?:'s|’s| is)|they(?:'re|’re| are)|but|rather|instead)\b
+\bnot [^.?!;,]{1,40}, but [^.?!]{1,60}
+\b(rather than|instead of) [^.?!]{1,40}, (it|they|this)\b
+\bno [a-z]+,? no [a-z]+,? (just|only)\b
+\bmore than (just|merely|simply) (a|an|the)\b
+\bwhat (really|truly) (matters|counts|happened|drives|makes)\b
+\bthe (real|true|actual) (story|question|problem|lesson|test|answer|reason|danger|issue|point)\b
+# category: tricolon
+\b[a-z-]+, [a-z-]+,? and [a-z-]+\b(?=[.?!;])
+\b[a-z]+ing [^,.]{1,30}, [a-z]+ing [^,.]{1,30},? and [a-z]+ing\b
+\b(no|not|never|without) [a-z ]{1,25}, (no|not|never|without) [a-z ]{1,25},? (and |or )?(no|not|never|without)\b
+# category: imagine_opener
+(^|[.?!] )imagine\b
+(^|[.?!] )picture (this|a|an|the|yourself)\b
+(^|[.?!] )(think|consider) (of|about) (a|an|the|how|what)\b
+\bwhat if (i|we|you|I) told you\b
+\b(have you ever|ever wondered|ever wonder|did you know)\b
+(^|[.?!] )(now )?(consider|suppose|say) (this|that|a|an)\b
+# category: filler_intensifier
+\b(truly|incredibly|remarkably|extraordinarily|astonishingly|profoundly|deeply|utterly|simply|absolutely|undeniably|inherently|fundamentally|quietly|literally|honestly|really|actually|essentially|basically|ultimately|arguably|genuinely|seriously|completely)\b
+\b(fascinating|remarkable|extraordinary|astonishing|stunning|breathtaking|mind-blowing|mind-boggling|jaw-dropping|staggering|incredible|unbelievable|awe-inspiring|captivating|compelling|riveting|game-changing|groundbreaking|revolutionary|unprecedented|unparalleled|profound|pivotal|crucial|vital|paramount|intricate|multifaceted|nuanced|vibrant|rich|robust|seamless|cutting-edge)\b
+\b(delve|delves|delving|tapestry|testament|realm|landscape|beacon|symphony|dance between|interplay|embark|unveil|unveiled|unravel|unlock|unleash|harness|leverage|foster|fostering|underscore|underscores|underscoring|showcase|showcasing|navigate|navigating|journey|nestled|labyrinth|crucible|cornerstone|linchpin|hallmark)\b
+\b(serves as|stands as|stands as a|is a testament|a testament to|plays a (crucial|vital|pivotal|key|significant) role|marks a (turning point|new chapter|shift)|turning point|paradigm shift|game changer|sheds light on|shed light on|rich history|deeply rooted|indelible mark|evolving landscape)\b
+\b(a )?(whole )?(new|different|entirely different) (level|world|ballgame|ball game|story)\b
+\b(mind|jaw|heart)[ -](blowing|dropping|stopping|pounding)\b
+\bsay the least\b
+\b(in a (world|way) (where|that)|at the end of the day|when it comes to|in today's|in today’s|in the ever-?(changing|evolving))\b
+# category: em_dash_and_punct
+—
+–
+ -- 
+\.\.\.|…
+;
+# category: summary_closer
+\b(in the end|at the end of the day|ultimately|in conclusion|in summary|to sum up|to summarize|all in all|in short|in essence|when all is said and done|the bottom line|the takeaway|the lesson here|what we learned|one thing is (clear|certain)|only time will tell|time will tell|the future (remains|is) (to be|uncertain|unwritten)|the story is far from over|the (journey|story) (is just|has just) begun|the answer (may|might) (surprise|lie)|remains to be seen|stay curious)\b
+\b(so|and) (what|where) (does|do) (this|that|it) (leave|mean|tell|say)\b
+\bwhat (this|that|it) (really )?means (for|is)\b
+\bthe (next|real) (chapter|test|question)\b
+# category: empty_transition_hype
+\b(but )?(then|suddenly),? (something|everything|the world|things) (changed|shifted|happened)\b
+\bwhat (nobody|no one|few people|most people|almost no one) (knew|realized|expected|saw|noticed|understood)\b
+\b(little did|nobody knew|no one knew|no one could have|nobody could have)\b
+\bthe (stakes|odds|pressure) (couldn't|couldn’t|could not) (be|have been) (higher|any higher)\b
+\bbut (that|this) (was|is) (just|only) the (beginning|start)\b
+\band (that|this) (changes|changed) everything\b
+\b(and )?(that|this)(?:'s|’s| is) (when|where) (things|it|everything) (got|gets|changed|went)\b
+# category: wikipedia_voice_hedges
+\b(experts|scientists|researchers|astronomers|many|some|critics|observers|historians|analysts) (say|argue|believe|suggest|agree|note|warn|claim|have (argued|noted|suggested))\b
+\b(despite (these|its|this|the)( \w+)? (challenges|setbacks|obstacles)|faces several challenges|looking (ahead|forward)|future outlook)\b
+\b(a )?(wide|diverse|rich|vast|broad) (range|array|variety|spectrum) of\b
+\b(plays|played) a (role|part) in\b
+\bsome (might|may|would) (say|argue|call)\b
+\bit(?:'s|’s| is) (no secret|clear|safe to say|fair to say|easy to see|important to remember) (that)?\b

@@ -1,0 +1,28 @@
+{
+ "id": "N33",
+ "seed": 7032,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N33_0_0.wav",
+   "text": "It works like a sat-nav that keeps re-planning your route as you drive.",
+   "dur": 3.415583333333333,
+   "words": 13
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N33_0_1.wav",
+   "text": "It doesn't know the road ahead.",
+   "dur": 1.319625,
+   "words": 6
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N33_0_2.wav",
+   "text": "It just keeps looking at where the car is right now.",
+   "dur": 2.45325,
+   "words": 11
+  }
+ ],
+ "gen_s": 6.96778130531311
+}

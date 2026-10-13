@@ -1,0 +1,14 @@
+{
+ "id": "N14",
+ "seed": 7013,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N14_0_0.wav",
+   "text": "Then, year by year, the bands creep toward the equator.",
+   "dur": 3.4205,
+   "words": 10
+  }
+ ],
+ "gen_s": 2.864947557449341
+}

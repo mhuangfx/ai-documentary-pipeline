@@ -1,0 +1,35 @@
+{
+ "id": "N45",
+ "seed": 7044,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N45_0_0.wav",
+   "text": "October twenty twenty-four.",
+   "dur": 1.638625,
+   "words": 3
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N45_0_1.wav",
+   "text": "That's when the Brussels score reaches its peak.",
+   "dur": 2.5462083333333334,
+   "words": 8
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N45_0_2.wav",
+   "text": "Because of the thirteen-month average, it takes a while before anyone can say so for sure.",
+   "dur": 4.622416666666667,
+   "words": 16
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N45_0_3.wav",
+   "text": "But when the numbers settle, the top of round twenty-five lands at a hundred and sixty point nine.",
+   "dur": 5.240125,
+   "words": 18
+  }
+ ],
+ "gen_s": 11.962395906448364
+}

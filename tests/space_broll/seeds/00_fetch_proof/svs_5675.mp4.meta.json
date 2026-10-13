@@ -1,0 +1,23 @@
+{
+  "row": {
+    "source": "svs",
+    "id": "5675",
+    "title": "US-India Satellite Captures Time-Lapse Video of Volcanic Eruption",
+    "media": "video",
+    "width": 3840,
+    "height": 2160,
+    "licence": "Public domain (NASA)",
+    "credit": "Visualizations by Alex Kekesi (ADNET Systems, Inc.); Produced by Andrew Wang (NASA/JPL); Scientific consulting by Matthew Pritchard (Cornell University), Paul A Rosen (JPL)",
+    "page_url": "https://svs.gsfc.nasa.gov/5675/",
+    "download_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005675/nisar_volcano_annotated.mp4",
+    "date": "2026-09-24",
+    "notes": "STRIP AUDIO before use (SVS visualizations may carry licensed music)."
+  },
+  "downloaded": true,
+  "path": "tests/space_broll/seeds/_fetch_test/svs_5675.mp4",
+  "size_bytes": 31458274,
+  "noaudio_path": "tests/space_broll/seeds/_fetch_test/svs_5675_noaudio.mp4",
+  "noaudio_size_bytes": 31448108,
+  "proxy720p_path": "tests/space_broll/seeds/_fetch_test/svs_5675_proxy720p.mp4",
+  "proxy720p_size_bytes": 7866438
+}

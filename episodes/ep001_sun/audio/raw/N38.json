@@ -1,0 +1,42 @@
+{
+ "id": "N38",
+ "seed": 7037,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N38_0_0.wav",
+   "text": "All that crowded, tangled magnetism doesn't sit still.",
+   "dur": 3.1500833333333333,
+   "words": 8
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N38_0_1.wav",
+   "text": "When it snaps, it flings a vast cloud of electrically charged gas out into space.",
+   "dur": 4.971291666666667,
+   "words": 15
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N38_0_2.wav",
+   "text": "Scientists call these clouds coronal mass ejections.",
+   "dur": 4.0724583333333335,
+   "words": 7
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N38_0_3.wav",
+   "text": "Most of them sail off in other directions.",
+   "dur": 2.149875,
+   "words": 8
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N38_0_4.wav",
+   "text": "This group is pointed right at us.",
+   "dur": 1.9909166666666667,
+   "words": 7
+  }
+ ],
+ "gen_s": 14.226466655731201
+}

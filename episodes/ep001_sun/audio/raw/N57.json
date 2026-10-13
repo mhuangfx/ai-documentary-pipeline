@@ -1,0 +1,21 @@
+{
+ "id": "N57",
+ "seed": 7056,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N57_0_0.wav",
+   "text": "Round twenty-six is expected to begin some time between January twenty twenty-nine and December twenty thirty-two.",
+   "dur": 6.535125,
+   "words": 16
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N57_0_1.wav",
+   "text": "That's a window almost four years wide, just for the starting line.",
+   "dur": 3.44125,
+   "words": 12
+  }
+ ],
+ "gen_s": 7.912224054336548
+}

@@ -1,0 +1,14 @@
+{
+ "id": "N37",
+ "seed": 7036,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N37_0_0.wav",
+   "text": "You could line up about fifteen Earths, side by side, across that one group of spots.",
+   "dur": 4.483125,
+   "words": 16
+  }
+ ],
+ "gen_s": 3.6352052688598633
+}

@@ -1,0 +1,49 @@
+{
+ "id": "N48",
+ "seed": 7047,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N48_0_0.wav",
+   "text": "The switch-over team's first number, two hundred and thirty-three, missed the other way.",
+   "dur": 4.434041666666666,
+   "words": 13
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N48_0_1.wav",
+   "text": "It was about forty-five percent too high.",
+   "dur": 2.164125,
+   "words": 7
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N48_0_2.wav",
+   "text": "It's almost a mirror image.",
+   "dur": 1.7455,
+   "words": 5
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N48_0_3.wav",
+   "text": "The Sun beat the panel by forty percent, and the rival team beat the Sun by forty-five.",
+   "dur": 4.639958333333333,
+   "words": 17
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N48_0_4.wav",
+   "text": "The real peak fell outside their most likely range.",
+   "dur": 3.247875,
+   "words": 9
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N48_0_5.wav",
+   "text": "But it landed inside their wider one.",
+   "dur": 1.9045833333333333,
+   "words": 7
+  }
+ ],
+ "gen_s": 16.09372067451477
+}

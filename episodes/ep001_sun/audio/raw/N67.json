@@ -1,0 +1,21 @@
+{
+ "id": "N67",
+ "seed": 7066,
+ "chunks": [
+  {
+   "part": 1,
+   "file": "audio/raw/N67_1_0.wav",
+   "text": "It doesn't care what anyone predicted.",
+   "dur": 1.845125,
+   "words": 6
+  },
+  {
+   "part": 1,
+   "file": "audio/raw/N67_1_1.wav",
+   "text": "It just glows.",
+   "dur": 0.98775,
+   "words": 3
+  }
+ ],
+ "gen_s": 3.4487361907958984
+}

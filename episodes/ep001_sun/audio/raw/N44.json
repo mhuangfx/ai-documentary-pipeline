@@ -1,0 +1,21 @@
+{
+ "id": "N44",
+ "seed": 7043,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N44_0_0.wav",
+   "text": "And the Sun still isn't done.",
+   "dur": 2.777375,
+   "words": 6
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N44_0_1.wav",
+   "text": "Its score keeps climbing through the summer, into the autumn.",
+   "dur": 2.8077916666666667,
+   "words": 10
+  }
+ ],
+ "gen_s": 4.915374279022217
+}

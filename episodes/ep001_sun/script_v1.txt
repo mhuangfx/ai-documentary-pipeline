@@ -1,0 +1,183 @@
+On a spring night, the northern lights burned red over Mexico, thrown there by a Sun the official forecast said would stay modest. The glow reached Florida and the Canary Islands, places that might see a sky like that once in a lifetime. And all of it poured out of one patch of the Sun about fifteen Earths wide. [BEAT] How does a modest Sun do that? Did anyone see it coming? And what's it going to do next?
+
+[HOST] I'm Zed and this is The Zed Files.
+
+The Sun's storms don't stay up in the sky. In March nineteen eighty-nine, one reached down to Quebec, and the province's power grid collapsed in about ninety seconds. The lights stayed off for about nine hours. Today, more than ten thousand Starlink satellites are circling the planet, and a storm doesn't need to be big to bring new ones down. So somebody has to tell us, years ahead, how wild the Sun is going to get. It's December twenty nineteen. The Sun is about as quiet as it ever gets, its face almost bare. And a panel of experts is weighing nearly fifty different ways to guess what it'll do next.
+
+[CHAPTER The Panel's Number]
+
+Nearly fifty methods, and they don't agree with each other. The panel's job is to turn all of them into one forecast the world can plan around.
+
+To follow what they're forecasting, it helps to know the Sun has a rhythm. Its face gets dark blotches called sunspots. Each one is a place where the Sun's magnetism bursts up through the surface. For a few years the spots grow more and more crowded. Then they thin out, until the face is nearly bare again. One full rise and fall takes about eleven years. Scientists call it the solar cycle, and they number each round. The round that's just beginning, in late twenty nineteen, is round twenty-five.
+
+The more spots there are, the more storms the Sun throws. So the whole question comes down to one thing. How crowded will the Sun get at the top of this round?
+
+To keep score, an observatory in Brussels collects the world's spot counts and turns them into a single number. Then it averages that number over thirteen months, so one busy week can't fake a peak. Think of it like judging a team on its whole season instead of one lucky game. That averaged number is what everyone is trying to predict.
+
+The panel was brought together by the American government's space-weather office, together with NASA and an international space-weather group. They take their time. When they announce the verdict, in September twenty twenty, it's a modest Sun. The score should top out at a hundred and fifteen, around July twenty twenty-five. And they give themselves some wiggle room, anywhere from a hundred and five to a hundred and twenty-five.
+
+[HOST] Hold on to that number, a hundred and fifteen. Everything in this story comes down to how far the Sun strays from it.
+
+It's a careful forecast, built from many methods at once. And a small team led from Boulder, Colorado, has just put a very different number in print.
+
+[CHAPTER A Rival Clock]
+
+Their number is two hundred and thirty-three. That's double the panel's forecast, for the very same Sun.
+
+The team is led by a solar physicist named Scott McIntosh, then deputy director of the National Center for Atmospheric Research, and Robert Leamon, a scientist at the University of Maryland, Baltimore County, who works with NASA. A space physicist named Sandra Chapman is on the paper too. They aren't averaging fifty methods. They're watching one thing the panel's forecast doesn't rest on, and their idea takes a minute to build. So let's go slowly.
+
+Start with magnetism, the kind of force that holds a fridge magnet to the door. The Sun is full of it, far stronger and far more tangled.
+
+Each round of the rhythm has its own magnetism. It sits in bands that wrap around the Sun, one north of the equator and one south, like two belts.
+
+A new round's bands don't wait politely for the old round to finish. They show up while the old round is still running, high up toward the poles, so for years the two rounds overlap.
+
+Then, year by year, the bands creep toward the equator.
+
+The old round's two bands, one from the north and one from the south, carry opposite magnetism. When they finally meet at the equator, they cancel each other out, the way plus one and minus one add up to nothing.
+
+That moment of cancelling is a kind of switch-over. The old round is gone, and the new one has the Sun to itself. The team gave it a name. They called it the terminator. Yes, like the film.
+
+And here's the rule they found in the old sunspot records. The earlier the switch-over comes, the stronger the round that follows. A late switch-over means a weaker one. Tell them the date, and they'll tell you the strength.
+
+They can even watch it happen. Bright specks in the Sun's outer layer trace where the bands are, and NASA's Solar Dynamics Observatory photographs them all the time.
+
+[HOST] One team says a hundred and fifteen. The other says two hundred and thirty-three. They can't both be right.
+
+The switch-over team expects the bands to meet around May twenty twenty. That date is what gives them two hundred and thirty-three. Their most likely range runs from two hundred and four to two hundred and fifty-four. Their wider range, the one they'd almost bet everything on, runs all the way from a hundred and fifty-three to three hundred and five.
+
+Their whole forecast now hangs on a single date. And May twenty twenty arrives.
+
+[CHAPTER The Late Switch-Over]
+
+The bands haven't met. May turns into summer, and summer into winter, and still the old round hangs on.
+
+For a rule built on a date, that matters. A switch-over that runs late is supposed to mean a weaker round. Every month the team waits, the two hundred and thirty-three should come down a little.
+
+The switch-over finally arrives around the thirteenth of December, twenty twenty-one. That's nineteen months later than the team expected.
+
+[HOST] Picture betting on a train's arrival time, and the train shows up more than a year and a half late. You'd want to redo your sums.
+
+Meanwhile, the Sun isn't following the panel's script either. Through twenty twenty-two, the real score climbs above the official forecast line on the charts, and the gap keeps growing.
+
+That February, the Sun shows what even a middling storm can do. A rocket lifts forty-nine brand-new Starlink satellites. They're parked low, about two hundred and ten kilometres up, before climbing to their working height. Then a storm arrives, one rated only moderate, near the bottom of the scale.
+
+It doesn't touch the satellites directly. It heats the thin air high above the Earth, and that air puffs up, the way dough rises in a warm kitchen. Suddenly there's thicker air at the satellites' height than there was the day before. They plough into it, they slow down, and they start to fall.
+
+Thirty-eight of the forty-nine are lost. [BEAT] A fresh launch, wiped out by weather in space most people on the ground never noticed.
+
+[HOST] Thirty-eight satellites gone, from a storm near the bottom of the scale. And the Sun was still climbing.
+
+By now, both forecasts are under pressure, from opposite sides. The Sun is running busier than the panel said. And the switch-over team's date has slipped. Somebody has to put a fresh number on the table.
+
+[CHAPTER Second Guesses]
+
+The switch-over team goes first. On the thirtieth of January, twenty twenty-three, McIntosh and Leamon, joined by a colleague named Egeland, run their rule again, this time with the real date plugged in.
+
+The new answer is a peak of about a hundred and eighty-four, give or take seventeen. Their wider range stretches sixty-three either way. And they say it'll come between late twenty twenty-three and the middle of twenty twenty-four.
+
+That's a lower number than their first one, exactly as a late switch-over should give. And they publish it twenty-one months before the Sun actually peaks.
+
+Nine months later, the government's space-weather office tries something different. On the twenty-fifth of October, twenty twenty-three, it releases what it calls an experimental forecast. This one doesn't re-run the old panel's fifty methods. It watches how fast the score has actually been rising, fits a curve to it, and redraws that curve every month.
+
+It works like a sat-nav that keeps re-planning your route as you drive. It doesn't know the road ahead. It just keeps looking at where the car is right now.
+
+Its answer is a peak somewhere between a hundred and thirty-seven and a hundred and seventy-three, some time between January and October twenty twenty-four.
+
+[HOST] So now there are three forecasts on the table, and the Sun hasn't peaked yet. One of them is about to look very good.
+
+The old panel says a hundred and fifteen. The switch-over team says about a hundred and eighty-four. The trial forecast sits somewhere in between.
+
+And in the first days of May twenty twenty-four, one group of spots on the Sun's face turns toward the Earth.
+
+[CHAPTER The Night Sky Turns]
+
+You could line up about fifteen Earths, side by side, across that one group of spots.
+
+All that crowded, tangled magnetism doesn't sit still. When it snaps, it flings a vast cloud of electrically charged gas out into space. Scientists call these clouds coronal mass ejections. Most of them sail off in other directions. This group is pointed right at us.
+
+On the ninth of May, forecasters at the government's space-weather office issue a watch for a severe storm. It's the first warning of its kind since two thousand and five. They can see the clouds leaving the Sun, so they get about a day's notice. With a single storm, a day or two is about all the warning anyone gets.
+
+The Earth has a shield. It's our planet's own magnetism, the same force that makes a compass needle point north. Most of the time it turns the Sun's charged gas aside, or funnels a little of it down near the poles. There, the gas hits the air high above the ground and makes it glow. That glow is the northern lights.
+
+On the night of the tenth of May, the clouds hit the shield hard. The storm reaches level five, the top of the government's one-to-five scale. It's the first level-five storm since October two thousand and three, the strongest in twenty-one years.
+
+And the lights move south. They climb over Mexico. They show up over Florida. They spread to the Canary Islands, out in the Atlantic off Africa.
+
+[HOST] Picture stepping outside somewhere warm, somewhere that almost never sees northern lights, and finding the whole sky stained red and pink.
+
+The people under that sky had no way of knowing what the storm meant for the forecasts. But the storm was a kind of headline. The Sun was busier than the official forecast allowed.
+
+[HOST] A day or two of warning for a single storm is about as good as it gets. The harder question is the one asked years ahead.
+
+And the Sun still isn't done. Its score keeps climbing through the summer, into the autumn.
+
+[CHAPTER The Final Score]
+
+October twenty twenty-four. That's when the Brussels score reaches its peak. Because of the thirteen-month average, it takes a while before anyone can say so for sure. But when the numbers settle, the top of round twenty-five lands at a hundred and sixty point nine.
+
+Now every forecast can be checked.
+
+The old panel said a hundred and fifteen, in July twenty twenty-five. The Sun came in about forty percent higher, and nine months early. Picture planning a party for a hundred guests, and a hundred and forty walk through the door. It even fell outside the panel's wiggle room, which topped out at a hundred and twenty-five.
+
+The switch-over team's first number, two hundred and thirty-three, missed the other way. It was about forty-five percent too high. It's almost a mirror image. The Sun beat the panel by forty percent, and the rival team beat the Sun by forty-five. The real peak fell outside their most likely range. But it landed inside their wider one.
+
+Their re-run, the one made with the real switch-over date, said a hundred and eighty-four. That's fourteen percent too high. Like putting out a hundred and fourteen chairs, and a hundred people show up. Close, with a few empty seats.
+
+[HOST] Two careful, published forecasts missed the same Sun, one too low and one too high, by almost the same amount.
+
+And the late arrival? The trial forecast said between a hundred and thirty-seven and a hundred and seventy-three. The real peak, a hundred and sixty point nine, sits right inside it. Later in twenty twenty-four, the observatory in Brussels made a call of its own, and that one landed inside its range too, though by then the Sun was already near the top.
+
+So the winner is the trial forecast, the sat-nav that watched the rise and redrew its line every month. In February twenty twenty-five, the government's space-weather site swaps out the old panel's forecast and puts the updated one in its place.
+
+[BEAT] But look at when the winner drew its line. October twenty twenty-three. That's almost four years into the round, with the rise already right there on the chart.
+
+It's like calling a football match at half-time. You're watching the score, you can see who's ahead, and you make your prediction. You'll probably be right. Nobody would call it foresight.
+
+[HOST] The winning forecast was made with half the answer already on the board. That's not cheating, but it isn't a prophecy either.
+
+And the switch-over team? Their rule always came with a condition. Give it the date, and it gives the strength. Once the real date arrived, their answer came within fourteen percent, and their wide range held the peak all along. What they couldn't do was say when the switch-over would come. It moved by nineteen months.
+
+So the honest scorecard looks like this. The method that won only won once it could see the rise. The method that looked ahead was close once its date arrived. And neither has proved, yet, that it can call a whole round before it starts.
+
+[CHAPTER Round Twenty-Six]
+
+So what does the government's space-weather office say about the next round? Its website puts it plainly. "We do not yet produce a prediction for Solar Cycle 26."
+
+Round twenty-six is expected to begin some time between January twenty twenty-nine and December twenty thirty-two. That's a window almost four years wide, just for the starting line.
+
+The switch-over team hasn't filed a number either. Their rule needs a date, and the next switch-over hasn't happened. Until those bands meet at the equator, they're waiting.
+
+But one of their own has moved. On the twenty-second of May, twenty twenty-six, Sandra Chapman, now at the University of Warwick, and one of the authors of the original switch-over paper, publishes a new clock of her own. It's built from the spot counts themselves. Her call is that round twenty-six will be weak to moderate, smaller than this round or about the same. She doesn't give a number. She says a sharper call should be possible in another two and a half to three and a half years.
+
+[HOST] One of the people behind the switch-over rule has placed her own bet on the next round, before that rule has said a word.
+
+Then there's the magnetism at the Sun's poles. Some scientists read it as an early sign of how strong the next round will be, and right now it's weak. Does that mean a weak round twenty-six? A team led by a scientist named Wang looked at exactly that question. In July twenty twenty-six, they reported that it's unlikely to mean an exceptionally weak one. They didn't give a number either.
+
+[HOST] So here's where we stand. Nobody can yet say how strong the next round will be, and no forecast for it has a track record.
+
+Meanwhile, our world keeps moving further up into the Sun's reach. By March twenty twenty-six, more than ten thousand Starlink satellites were working overhead. Remember, thirty-eight were lost to a storm near the bottom of the scale.
+
+And in April twenty twenty-six, four astronauts on Artemis Two flew around the Moon and came home, during the tail end of this round. Out there, past the Earth's shield, there's nothing between a crew and the Sun's weather except their spacecraft.
+
+[HOST] Imagine planning a trip to the Moon, years ahead, and not knowing what kind of Sun you'll be flying under.
+
+So the real test of who understands the Sun isn't over. It's barely started. It's round twenty-six. And it only counts if each team writes its number down before the round begins, where everyone can see it, and then waits.
+
+[CHAPTER The Red Sky Again]
+
+Go back to that night over Mexico.
+
+The sky is red and pink, hanging over rooftops that almost never see northern lights. People are tipping their heads back and staring up at it. The light shifts slowly, and it doesn't fade.
+
+That glow is the Sun's rhythm near its top, made visible. It's the climb to a hundred and sixty point nine, painted across the sky. Somewhere on a chart, a line said the Sun wouldn't get this high this soon. Another line said it would go far higher. And the sky over Mexico sits right between them, the Sun's own answer, written in light.
+
+[BEAT] It doesn't care what anyone predicted. It just glows.
+
+Thank you so much for watching.
+
+If you'd like more stories like this one, please subscribe, and if you can, support the channel. It really helps.
+
+[HOST] I'm Zed, and this has been The Zed Files.
+
+Some time in the next few years, two bands of opposite magnetism will creep toward the Sun's equator and meet. When they do, will anyone have written down their number first?

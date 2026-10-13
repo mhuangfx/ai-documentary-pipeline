@@ -1,0 +1,21 @@
+{
+ "id": "N08",
+ "seed": 7007,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N08_0_0.wav",
+   "text": "It's a careful forecast, built from many methods at once.",
+   "dur": 3.238541666666667,
+   "words": 10
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N08_0_1.wav",
+   "text": "And a small team led from Boulder, Colorado, has just put a very different number in print.",
+   "dur": 4.464375,
+   "words": 17
+  }
+ ],
+ "gen_s": 6.261083364486694
+}

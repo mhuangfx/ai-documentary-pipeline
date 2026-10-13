@@ -1,0 +1,63 @@
+{
+ "id": "N02",
+ "seed": 7001,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N02_0_0.wav",
+   "text": "The Sun's storms don't stay up in the sky.",
+   "dur": 2.503833333333333,
+   "words": 9
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N02_0_1.wav",
+   "text": "In March nineteen eighty-nine, one reached down to Quebec, and the province's power grid collapsed in about ninety seconds.",
+   "dur": 6.514166666666667,
+   "words": 19
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N02_0_2.wav",
+   "text": "The lights stayed off for about nine hours.",
+   "dur": 2.2715833333333335,
+   "words": 8
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N02_0_3.wav",
+   "text": "Today, more than ten thousand Starlink satellites are circling the planet, and a storm doesn't need to be big to bring new ones down.",
+   "dur": 7.3875,
+   "words": 24
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N02_0_4.wav",
+   "text": "So somebody has to tell us, years ahead, how wild the Sun is going to get.",
+   "dur": 4.482875,
+   "words": 16
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N02_0_5.wav",
+   "text": "It's December twenty nineteen.",
+   "dur": 2.024,
+   "words": 4
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N02_0_6.wav",
+   "text": "The Sun is about as quiet as it ever gets, its face almost bare.",
+   "dur": 4.21275,
+   "words": 14
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N02_0_7.wav",
+   "text": "And a panel of experts is weighing nearly fifty different ways to guess what it'll do next.",
+   "dur": 4.223791666666667,
+   "words": 17
+  }
+ ],
+ "gen_s": 29.32717275619507
+}

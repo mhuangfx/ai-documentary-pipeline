@@ -1,0 +1,49 @@
+{
+ "id": "N54",
+ "seed": 7053,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N54_0_0.wav",
+   "text": "And the switch-over team?",
+   "dur": 1.3329583333333332,
+   "words": 4
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N54_0_1.wav",
+   "text": "Their rule always came with a condition.",
+   "dur": 2.370625,
+   "words": 7
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N54_0_2.wav",
+   "text": "Give it the date, and it gives the strength.",
+   "dur": 2.3405833333333335,
+   "words": 9
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N54_0_3.wav",
+   "text": "Once the real date arrived, their answer came within fourteen percent, and their wide range held the peak all along.",
+   "dur": 5.965916666666667,
+   "words": 20
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N54_0_4.wav",
+   "text": "What they couldn't do was say when the switch-over would come.",
+   "dur": 2.7827916666666668,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N54_0_5.wav",
+   "text": "It moved by nineteen months.",
+   "dur": 1.76975,
+   "words": 5
+  }
+ ],
+ "gen_s": 15.152376413345337
+}

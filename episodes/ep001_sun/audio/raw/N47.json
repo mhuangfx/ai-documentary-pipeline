@@ -1,0 +1,35 @@
+{
+ "id": "N47",
+ "seed": 7046,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N47_0_0.wav",
+   "text": "The old panel said a hundred and fifteen, in July twenty twenty-five.",
+   "dur": 3.5484583333333335,
+   "words": 12
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N47_0_1.wav",
+   "text": "The Sun came in about forty percent higher, and nine months early.",
+   "dur": 3.42075,
+   "words": 12
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N47_0_2.wav",
+   "text": "Picture planning a party for a hundred guests, and a hundred and forty walk through the door.",
+   "dur": 4.5572083333333335,
+   "words": 17
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N47_0_3.wav",
+   "text": "It even fell outside the panel's wiggle room, which topped out at a hundred and twenty-five.",
+   "dur": 4.088375,
+   "words": 16
+  }
+ ],
+ "gen_s": 13.091519355773926
+}

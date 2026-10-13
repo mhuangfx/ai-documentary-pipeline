@@ -1,0 +1,21 @@
+{
+ "id": "N12",
+ "seed": 7011,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N12_0_0.wav",
+   "text": "Each round of the rhythm has its own magnetism.",
+   "dur": 2.594375,
+   "words": 9
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N12_0_1.wav",
+   "text": "It sits in bands that wrap around the Sun, one north of the equator and one south, like two belts.",
+   "dur": 5.054375,
+   "words": 20
+  }
+ ],
+ "gen_s": 6.550445079803467
+}

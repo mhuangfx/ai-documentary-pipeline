@@ -1,0 +1,35 @@
+{
+ "id": "N25",
+ "seed": 7024,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N25_0_0.wav",
+   "text": "That February, the Sun shows what even a middling storm can do.",
+   "dur": 3.9103333333333334,
+   "words": 12
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N25_0_1.wav",
+   "text": "A rocket lifts forty-nine brand-new Starlink satellites.",
+   "dur": 3.273125,
+   "words": 7
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N25_0_2.wav",
+   "text": "They're parked low, about two hundred and ten kilometres up, before climbing to their working height.",
+   "dur": 5.259375,
+   "words": 16
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N25_0_3.wav",
+   "text": "Then a storm arrives, one rated only moderate, near the bottom of the scale.",
+   "dur": 3.673625,
+   "words": 14
+  }
+ ],
+ "gen_s": 13.165477514266968
+}

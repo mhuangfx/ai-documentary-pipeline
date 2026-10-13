@@ -1,0 +1,63 @@
+{
+ "id": "N04",
+ "seed": 7003,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N04_0_0.wav",
+   "text": "To follow what they're forecasting, it helps to know the Sun has a rhythm.",
+   "dur": 3.790583333333333,
+   "words": 14
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N04_0_1.wav",
+   "text": "Its face gets dark blotches called sunspots.",
+   "dur": 2.754875,
+   "words": 7
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N04_0_2.wav",
+   "text": "Each one is a place where the Sun's magnetism bursts up through the surface.",
+   "dur": 3.7194583333333333,
+   "words": 14
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N04_0_3.wav",
+   "text": "For a few years the spots grow more and more crowded.",
+   "dur": 2.552625,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N04_0_4.wav",
+   "text": "Then they thin out, until the face is nearly bare again.",
+   "dur": 2.5552083333333333,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N04_0_5.wav",
+   "text": "One full rise and fall takes about eleven years.",
+   "dur": 2.5181666666666667,
+   "words": 9
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N04_0_6.wav",
+   "text": "Scientists call it the solar cycle, and they number each round.",
+   "dur": 3.2130833333333335,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N04_0_7.wav",
+   "text": "The round that's just beginning, in late twenty nineteen, is round twenty-five.",
+   "dur": 3.8032083333333335,
+   "words": 12
+  }
+ ],
+ "gen_s": 22.564347743988037
+}

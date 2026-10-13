@@ -1,0 +1,3 @@
+How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video. integrated_multimodal_description: [Shot 1] Live-action documentary footage, photographic realism, preserving every detail of the reference photograph exactly, fine natural grain, not an illustration, not CG. The photograph shows a red and pink aurora rising over a dark desert horizon with faint town lights. The red pillars of light shift and pulse slowly. The camera drifts slowly to the right with small amplitude. No cuts: the entire video is a single unbroken shot.
+overall_soundscape: Quiet night air, a faint distant dog bark, soft wind.
+non_diegetic_music: N/A

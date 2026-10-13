@@ -1,0 +1,21 @@
+{
+ "id": "N70",
+ "seed": 7069,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N70_0_0.wav",
+   "text": "Some time in the next few years, two bands of opposite magnetism will creep toward the Sun's equator and meet.",
+   "dur": 5.7875,
+   "words": 20
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N70_0_1.wav",
+   "text": "When they do, will anyone have written down their number first?",
+   "dur": 3.1578333333333335,
+   "words": 11
+  }
+ ],
+ "gen_s": 7.087900876998901
+}

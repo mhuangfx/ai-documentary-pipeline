@@ -1,0 +1,19 @@
+{
+  "row": {
+    "source": "nasa",
+    "id": "PIA17192",
+    "title": "Tendril-producing Geysers on Enceladus South Polar Terrain",
+    "media": "still",
+    "width": 900,
+    "height": 900,
+    "licence": "Public domain (NASA)",
+    "credit": "NASA/JPL-Caltech/Space Science Institute",
+    "page_url": "https://images.nasa.gov/details-PIA17192",
+    "download_url": "http://images-assets.nasa.gov/image/PIA17192/PIA17192~orig.jpg",
+    "date": "2015-04-14",
+    "notes": ""
+  },
+  "downloaded": true,
+  "path": "tests/space_broll/seeds/_fetch_test/nasa_PIA17192.jpg",
+  "size_bytes": 98680
+}

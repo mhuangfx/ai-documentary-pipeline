@@ -1,0 +1,35 @@
+{
+ "id": "N06",
+ "seed": 7005,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N06_0_0.wav",
+   "text": "To keep score, an observatory in Brussels collects the world's spot counts and turns them into a single number.",
+   "dur": 5.745625,
+   "words": 19
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N06_0_1.wav",
+   "text": "Then it averages that number over thirteen months, so one busy week can't fake a peak.",
+   "dur": 4.379666666666667,
+   "words": 16
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N06_0_2.wav",
+   "text": "Think of it like judging a team on its whole season instead of one lucky game.",
+   "dur": 3.810125,
+   "words": 16
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N06_0_3.wav",
+   "text": "That averaged number is what everyone is trying to predict.",
+   "dur": 3.687375,
+   "words": 10
+  }
+ ],
+ "gen_s": 14.649839401245117
+}

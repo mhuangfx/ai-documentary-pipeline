@@ -1,0 +1,35 @@
+{
+ "id": "N17",
+ "seed": 7016,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N17_0_0.wav",
+   "text": "And here's the rule they found in the old sunspot records.",
+   "dur": 2.968541666666667,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N17_0_1.wav",
+   "text": "The earlier the switch-over comes, the stronger the round that follows.",
+   "dur": 3.4509166666666666,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N17_0_2.wav",
+   "text": "A late switch-over means a weaker one.",
+   "dur": 1.778375,
+   "words": 7
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N17_0_3.wav",
+   "text": "Tell them the date, and they'll tell you the strength.",
+   "dur": 2.347625,
+   "words": 10
+  }
+ ],
+ "gen_s": 10.016461849212646
+}

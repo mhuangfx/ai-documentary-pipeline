@@ -1,0 +1,21 @@
+{
+ "id": "N09",
+ "seed": 7008,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N09_0_0.wav",
+   "text": "Their number is two hundred and thirty-three.",
+   "dur": 2.3605833333333335,
+   "words": 7
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N09_0_1.wav",
+   "text": "That's double the panel's forecast, for the very same Sun.",
+   "dur": 2.9709583333333334,
+   "words": 10
+  }
+ ],
+ "gen_s": 4.911278009414673
+}

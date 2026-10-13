@@ -1,0 +1,35 @@
+{
+ "id": "N28",
+ "seed": 7027,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N28_0_0.wav",
+   "text": "By now, both forecasts are under pressure, from opposite sides.",
+   "dur": 3.3669583333333333,
+   "words": 10
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N28_0_1.wav",
+   "text": "The Sun is running busier than the panel said.",
+   "dur": 2.256083333333333,
+   "words": 9
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N28_0_2.wav",
+   "text": "And the switch-over team's date has slipped.",
+   "dur": 2.3197083333333333,
+   "words": 7
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N28_0_3.wav",
+   "text": "Somebody has to put a fresh number on the table.",
+   "dur": 2.2050833333333335,
+   "words": 10
+  }
+ ],
+ "gen_s": 9.587854862213135
+}

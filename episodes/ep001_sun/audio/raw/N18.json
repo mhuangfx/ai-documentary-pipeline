@@ -1,0 +1,21 @@
+{
+ "id": "N18",
+ "seed": 7017,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N18_0_0.wav",
+   "text": "They can even watch it happen.",
+   "dur": 1.50475,
+   "words": 6
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N18_0_1.wav",
+   "text": "Bright specks in the Sun's outer layer trace where the bands are, and NASA's Solar Dynamics Observatory photographs them all the time.",
+   "dur": 7.351375,
+   "words": 22
+  }
+ ],
+ "gen_s": 7.177047491073608
+}

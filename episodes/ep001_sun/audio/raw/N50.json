@@ -1,0 +1,35 @@
+{
+ "id": "N50",
+ "seed": 7049,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N50_0_0.wav",
+   "text": "And the late arrival?",
+   "dur": 1.304125,
+   "words": 4
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N50_0_1.wav",
+   "text": "The trial forecast said between a hundred and thirty-seven and a hundred and seventy-three.",
+   "dur": 4.26525,
+   "words": 14
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N50_0_2.wav",
+   "text": "The real peak, a hundred and sixty point nine, sits right inside it.",
+   "dur": 3.8636666666666666,
+   "words": 13
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N50_0_3.wav",
+   "text": "Later in twenty twenty-four, the observatory in Brussels made a call of its own, and that one landed inside its range too, though by then the Sun was already near the top.",
+   "dur": 8.428416666666667,
+   "words": 32
+  }
+ ],
+ "gen_s": 14.08626651763916
+}

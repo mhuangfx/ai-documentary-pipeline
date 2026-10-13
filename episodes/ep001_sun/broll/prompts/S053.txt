@@ -1,0 +1,3 @@
+integrated_multimodal_description: [Shot 1] Live-action documentary time-lapse cinematography, photographic realism, shot on a 24mm lens, a single large oak tree on a grassy hill under moving clouds. Over the length of the shot the green summer leaves turn gold and fall, the hill browns, and snow settles over bare branches; clouds race across the sky. The camera holds locked off. No cuts: the entire video is a single unbroken shot.
+overall_soundscape: Soft wind that grows colder.
+non_diegetic_music: N/A

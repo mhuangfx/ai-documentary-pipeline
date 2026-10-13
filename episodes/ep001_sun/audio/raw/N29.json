@@ -1,0 +1,21 @@
+{
+ "id": "N29",
+ "seed": 7028,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N29_0_0.wav",
+   "text": "The switch-over team goes first.",
+   "dur": 1.9814583333333333,
+   "words": 5
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N29_0_1.wav",
+   "text": "On the thirtieth of January, twenty twenty-three, McIntosh and Leamon, joined by a colleague named Egeland, run their rule again, this time with the real date plugged in.",
+   "dur": 8.9995,
+   "words": 28
+  }
+ ],
+ "gen_s": 8.148540735244751
+}

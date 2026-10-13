@@ -1,0 +1,21 @@
+{
+ "id": "N03",
+ "seed": 7002,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N03_0_0.wav",
+   "text": "Nearly fifty methods, and they don't agree with each other.",
+   "dur": 2.7879583333333335,
+   "words": 10
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N03_0_1.wav",
+   "text": "The panel's job is to turn all of them into one forecast the world can plan around.",
+   "dur": 4.677708333333333,
+   "words": 17
+  }
+ ],
+ "gen_s": 6.692593097686768
+}

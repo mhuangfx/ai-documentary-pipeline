@@ -1,0 +1,3 @@
+integrated_multimodal_description: [Shot 1] Live-action documentary cinematography, photographic realism, shot on a 35mm lens, night. Close shot of a car dashboard navigation screen showing an abstract blue route line on a dark map; the glowing route redraws itself as the car drives along a dark rural road seen through the windshield with passing road lights. The camera holds steady with a very slow push in. No readable text. No cuts: the entire video is a single unbroken shot.
+overall_soundscape: A low engine hum and soft tyre noise on the road.
+non_diegetic_music: N/A

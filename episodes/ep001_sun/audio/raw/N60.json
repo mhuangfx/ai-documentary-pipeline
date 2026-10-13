@@ -1,0 +1,49 @@
+{
+ "id": "N60",
+ "seed": 7059,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N60_0_0.wav",
+   "text": "Then there's the magnetism at the Sun's poles.",
+   "dur": 2.3675,
+   "words": 8
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N60_0_1.wav",
+   "text": "Some scientists read it as an early sign of how strong the next round will be, and right now it's weak.",
+   "dur": 5.658375,
+   "words": 21
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N60_0_2.wav",
+   "text": "Does that mean a weak round twenty-six?",
+   "dur": 2.008208333333333,
+   "words": 7
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N60_0_3.wav",
+   "text": "A team led by a scientist named Wang looked at exactly that question.",
+   "dur": 3.9461666666666666,
+   "words": 13
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N60_0_4.wav",
+   "text": "In July twenty twenty-six, they reported that it's unlikely to mean an exceptionally weak one.",
+   "dur": 4.201833333333333,
+   "words": 15
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N60_0_5.wav",
+   "text": "They didn't give a number either.",
+   "dur": 1.4112083333333334,
+   "words": 6
+  }
+ ],
+ "gen_s": 16.711177110671997
+}

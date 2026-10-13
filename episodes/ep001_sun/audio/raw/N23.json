@@ -1,0 +1,21 @@
+{
+ "id": "N23",
+ "seed": 7022,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N23_0_0.wav",
+   "text": "The switch-over finally arrives around the thirteenth of December, twenty twenty-one.",
+   "dur": 4.4325,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N23_0_1.wav",
+   "text": "That's nineteen months later than the team expected.",
+   "dur": 2.5424583333333333,
+   "words": 8
+  }
+ ],
+ "gen_s": 5.95566725730896
+}

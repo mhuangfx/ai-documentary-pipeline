@@ -1,0 +1,42 @@
+{
+ "id": "N10",
+ "seed": 7009,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N10_0_0.wav",
+   "text": "The team is led by a solar physicist named Scott McIntosh, then deputy director of the National Center for Atmospheric Research, and Robert Leamon, a scientist at the University of Maryland, Baltimore County, who works with NASA.",
+   "dur": 12.784291666666666,
+   "words": 37
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N10_0_1.wav",
+   "text": "A space physicist named Sandra Chapman is on the paper too.",
+   "dur": 3.2235833333333335,
+   "words": 11
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N10_0_2.wav",
+   "text": "They aren't averaging fifty methods.",
+   "dur": 1.9015,
+   "words": 5
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N10_0_3.wav",
+   "text": "They're watching one thing the panel's forecast doesn't rest on, and their idea takes a minute to build.",
+   "dur": 4.842083333333333,
+   "words": 18
+  },
+  {
+   "part": 0,
+   "file": "audio/raw/N10_0_4.wav",
+   "text": "So let's go slowly.",
+   "dur": 1.2652083333333333,
+   "words": 4
+  }
+ ],
+ "gen_s": 19.036646127700806
+}

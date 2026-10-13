@@ -1,0 +1,14 @@
+{
+ "id": "N46",
+ "seed": 7045,
+ "chunks": [
+  {
+   "part": 0,
+   "file": "audio/raw/N46_0_0.wav",
+   "text": "Now every forecast can be checked.",
+   "dur": 2.052375,
+   "words": 6
+  }
+ ],
+ "gen_s": 2.0281243324279785
+}
