@@ -3,6 +3,8 @@
 **One overnight run on one GPU turned a science story into an 18-minute documentary rough cut:
 script, narration, an AI host, 154 b-roll shots, and charts, with no human step in between.**
 
+[![Shots from the 18-minute rough cut: watch the result and the breakdown on mhfx.ai](media/poster.jpg)](https://mhfx.ai/systems/ai-documentary-pipeline/)
+
 - **Story to script.** A topic radar ranks story ideas from public science feeds. A plain-language
   gate checks the script for jargon, missing baselines, and a slow first 30 seconds.
 - **Script to pictures.** Every narrated line becomes a shot: NASA/ESA archive video, photos
